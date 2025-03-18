@@ -1,0 +1,57 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - Cześć
+      - Dzień dobry
+      - Hej
+      - Witam
+      - Siemanko
+      - Miłego dnia
+
+  - intent: goodbye
+    examples: |
+      - Do widzenia
+      - Papa
+      - Nara
+      - Zegnam
+      - Koniec
+      - Dzięki, to wszystko
+
+  - intent: search_connections
+    examples: |
+      - Szukam połączenia kolejowego
+      - Potrzebuję znaleźć pociąg
+      - Jak dojechać z [Warszawy](departure_city) do [Krakowa](destination_city)?
+      - Połączenia [Kielce](departure_city) [Gdańsk](destination_city)
+      - Pokaż mi rozkład jazdy
+      - Chcę jechać z [Gdańska](departure_city) do [Poznania](destination_city)
+
+  - intent: purchase_ticket
+    examples: |
+      - Chcę kupić bilet
+      - Tak, przejdź do zakupu
+      - Wybieram pierwszy bilet
+      - Potwierdzam zakup
+      - Kupuję
+      - Zarezerwuj
+
+  - intent: provide_info
+    examples: |
+      - [Warszawa](departure_city) [Kraków](destination_city) [jutro](date) [08:00](time)
+      - Z: [Poznań](departure_city) Do: [Szczecin](destination_city)
+      - Data: [15.03.2024](date)
+      - Godzina: [14:30](time)
+      - [Wrocław](departure_city) -> [Łódź](destination_city)
+      - [Za tydzień](date) o [10:45](time)
+      - Jutro rano
+
+  - intent: deny
+    examples: |
+      - Nie, dzięki
+      - Anuluj
+      - Nie chcę kupować
+      - Może później
+      - Rezygnuję
+      - Nie teraz

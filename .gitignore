@@ -1,0 +1,34 @@
+# Pliki i foldery ignorowane w projekcie Pythona z Rasa Chatbot
+
+# Pliki tymczasowe i wygenerowane
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+
+# Pliki zależności
+venv/
+env/
+requirements.txt
+
+# Pliki logów
+logs/
+*.log
+
+# Inne pliki ignorowane
+.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Pliki specyficzne dla IDE
+.vscode/
+.idea/
+*.vscode/
+*.idea/
+
+# Pliki specyficzne dla Rasa
+.rasa/
+models/
+test_results/

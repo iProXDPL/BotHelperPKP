@@ -1,0 +1,104 @@
+version: "3.1"
+
+stories:
+  - story: Happy path - udana rezerwacja
+    steps:
+      - user: |
+          intent: greet
+      - bot: utter_greet
+      - user: |
+          intent: provide_info
+          entities:
+          - departure_city: "Warszawa"
+          - destination_city: "Kraków"
+          - date: "jutro"
+          - time: "08:00"
+      - bot: action_search_connections
+      - bot: utter_offer_ticket_purchase
+      - user: |
+          intent: purchase_ticket
+      - bot: action_start_purchase
+
+  - story: Wyszukiwanie z brakującymi danymi
+    steps:
+      - user: |
+          intent: search_connections
+          entities:
+          - departure_city: "Poznań"
+      - bot: utter_ask_destination
+      - user: |
+          intent: provide_info
+          entities:
+          - destination_city: "Gdańsk"
+      - bot: utter_ask_date
+      - user: |
+          intent: provide_info
+          entities:
+          - date: "2023-12-31"
+      - bot: utter_ask_time
+      - user: |
+          intent: provide_info
+          entities:
+          - time: "15:30"
+      - bot: action_search_connections
+      - bot: utter_offer_ticket_purchase
+      - user: |
+          intent: purchase_ticket
+      - bot: action_start_purchase
+
+  - story: Rezygnacja z zakupu
+    steps:
+      - user: |
+          intent: search_connections
+          entities:
+          - departure_city: "Katowice"
+          - destination_city: "Wrocław"
+          - date: "dzisiaj"
+          - time: "18:00"
+      - bot: action_search_connections
+      - bot: utter_offer_ticket_purchase
+      - user: |
+          intent: deny
+      - bot: utter_goodbye
+
+  - story: Brak dostępnych połączeń
+    steps:
+      - user: |
+          intent: search_connections
+          entities:
+          - departure_city: "Szczecin"
+          - destination_city: "Rzeszów"
+          - date: "01.01.2024"
+          - time: "06:00"
+      - bot: action_search_connections
+      - bot: utter_offer_ticket_purchase
+
+  - story: Pełna konwersacja z powitaniem
+    steps:
+      - user: |
+          intent: greet
+      - bot: utter_greet
+      - user: |
+          intent: provide_info
+          entities:
+          - departure_city: "Łódź"
+      - bot: utter_ask_destination
+      - user: |
+          intent: provide_info
+          entities:
+          - destination_city: "Bydgoszcz"
+      - bot: utter_ask_date
+      - user: |
+          intent: provide_info
+          entities:
+          - date: "za tydzień"
+      - bot: utter_ask_time
+      - user: |
+          intent: provide_info
+          entities:
+          - time: "12:45"
+      - bot: action_search_connections
+      - bot: utter_offer_ticket_purchase
+      - user: |
+          intent: purchase_ticket
+      - bot: action_start_purchase

@@ -1,0 +1,12 @@
+python -m venv ./venv
+source ./venv/bin/activate
+
+pip install uv
+uv pip install rasa-pro
+
+rasa init
+
+rasa train
+
+rasa run actions
+rasa shell
