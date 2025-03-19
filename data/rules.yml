@@ -1,39 +1,13 @@
-# plik: data/rules.yml
 version: "3.1"
 
 rules:
-  - rule: Powitanie
-    steps:
-      - intent: greet
-      - action: utter_greet
 
-  - rule: Pożegnanie
-    steps:
-      - intent: goodbye
-      - action: utter_goodbye
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
 
-  - rule: Rozpoczęcie wyszukiwania
-    steps:
-      - intent: search_connections
-      - active_loop: null
-      - action: action_search_connections
-
-  - rule: Obsługa pełnych informacji
-    steps:
-      - intent: provide_info
-        entities:
-          - departure_city
-          - destination_city
-          - date
-          - time
-      - action: action_search_connections
-
-  - rule: Potwierdzenie zakupu
-    steps:
-      - intent: purchase_ticket
-      - action: action_start_purchase
-
-  - rule: Anulowanie zakupu
-    steps:
-      - intent: deny
-      - action: utter_goodbye
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot

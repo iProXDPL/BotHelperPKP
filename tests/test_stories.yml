@@ -1,104 +1,91 @@
-version: "3.1"
+#### This file contains tests to evaluate that your bot behaves as expected.
+#### If you want to learn more, please see the docs: https://rasa.com/docs/rasa-pro/nlu-based-assistants/testing-your-assistant
 
 stories:
-  - story: Happy path - udana rezerwacja
-    steps:
-      - user: |
-          intent: greet
-      - bot: utter_greet
-      - user: |
-          intent: provide_info
-          entities:
-          - departure_city: "Warszawa"
-          - destination_city: "Kraków"
-          - date: "jutro"
-          - time: "08:00"
-      - bot: action_search_connections
-      - bot: utter_offer_ticket_purchase
-      - user: |
-          intent: purchase_ticket
-      - bot: action_start_purchase
+- story: happy path 1
+  steps:
+  - user: |
+      hello there!
+    intent: greet
+  - action: utter_greet
+  - user: |
+      amazing
+    intent: mood_great
+  - action: utter_happy
 
-  - story: Wyszukiwanie z brakującymi danymi
-    steps:
-      - user: |
-          intent: search_connections
-          entities:
-          - departure_city: "Poznań"
-      - bot: utter_ask_destination
-      - user: |
-          intent: provide_info
-          entities:
-          - destination_city: "Gdańsk"
-      - bot: utter_ask_date
-      - user: |
-          intent: provide_info
-          entities:
-          - date: "2023-12-31"
-      - bot: utter_ask_time
-      - user: |
-          intent: provide_info
-          entities:
-          - time: "15:30"
-      - bot: action_search_connections
-      - bot: utter_offer_ticket_purchase
-      - user: |
-          intent: purchase_ticket
-      - bot: action_start_purchase
+- story: happy path 2
+  steps:
+  - user: |
+      hello there!
+    intent: greet
+  - action: utter_greet
+  - user: |
+      amazing
+    intent: mood_great
+  - action: utter_happy
+  - user: |
+      bye-bye!
+    intent: goodbye
+  - action: utter_goodbye
 
-  - story: Rezygnacja z zakupu
-    steps:
-      - user: |
-          intent: search_connections
-          entities:
-          - departure_city: "Katowice"
-          - destination_city: "Wrocław"
-          - date: "dzisiaj"
-          - time: "18:00"
-      - bot: action_search_connections
-      - bot: utter_offer_ticket_purchase
-      - user: |
-          intent: deny
-      - bot: utter_goodbye
+- story: sad path 1
+  steps:
+  - user: |
+      hello
+    intent: greet
+  - action: utter_greet
+  - user: |
+      not good
+    intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - user: |
+      yes
+    intent: affirm
+  - action: utter_happy
 
-  - story: Brak dostępnych połączeń
-    steps:
-      - user: |
-          intent: search_connections
-          entities:
-          - departure_city: "Szczecin"
-          - destination_city: "Rzeszów"
-          - date: "01.01.2024"
-          - time: "06:00"
-      - bot: action_search_connections
-      - bot: utter_offer_ticket_purchase
+- story: sad path 2
+  steps:
+  - user: |
+      hello
+    intent: greet
+  - action: utter_greet
+  - user: |
+      not good
+    intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - user: |
+      not really
+    intent: deny
+  - action: utter_goodbye
 
-  - story: Pełna konwersacja z powitaniem
-    steps:
-      - user: |
-          intent: greet
-      - bot: utter_greet
-      - user: |
-          intent: provide_info
-          entities:
-          - departure_city: "Łódź"
-      - bot: utter_ask_destination
-      - user: |
-          intent: provide_info
-          entities:
-          - destination_city: "Bydgoszcz"
-      - bot: utter_ask_date
-      - user: |
-          intent: provide_info
-          entities:
-          - date: "za tydzień"
-      - bot: utter_ask_time
-      - user: |
-          intent: provide_info
-          entities:
-          - time: "12:45"
-      - bot: action_search_connections
-      - bot: utter_offer_ticket_purchase
-      - user: |
-          intent: purchase_ticket
-      - bot: action_start_purchase
+- story: sad path 3
+  steps:
+  - user: |
+      hi
+    intent: greet
+  - action: utter_greet
+  - user: |
+      very terrible
+    intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - user: |
+      no
+    intent: deny
+  - action: utter_goodbye
+
+- story: say goodbye
+  steps:
+  - user: |
+      bye-bye!
+    intent: goodbye
+  - action: utter_goodbye
+
+- story: bot challenge
+  steps:
+  - user: |
+      are you a bot?
+    intent: bot_challenge
+  - action: utter_iamabot

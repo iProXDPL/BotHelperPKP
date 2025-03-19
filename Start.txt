@@ -6,6 +6,8 @@ uv pip install rasa-pro
 
 rasa init
 
+.\venv\Scripts\activate
+
 rasa train
 
 rasa run actions

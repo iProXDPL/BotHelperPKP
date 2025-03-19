@@ -1,57 +1,91 @@
 version: "3.1"
 
 nlu:
-  - intent: greet
-    examples: |
-      - Cześć
-      - Dzień dobry
-      - Hej
-      - Witam
-      - Siemanko
-      - Miłego dnia
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
 
-  - intent: goodbye
-    examples: |
-      - Do widzenia
-      - Papa
-      - Nara
-      - Zegnam
-      - Koniec
-      - Dzięki, to wszystko
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
 
-  - intent: search_connections
-    examples: |
-      - Szukam połączenia kolejowego
-      - Potrzebuję znaleźć pociąg
-      - Jak dojechać z [Warszawy](departure_city) do [Krakowa](destination_city)?
-      - Połączenia [Kielce](departure_city) [Gdańsk](destination_city)
-      - Pokaż mi rozkład jazdy
-      - Chcę jechać z [Gdańska](departure_city) do [Poznania](destination_city)
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
 
-  - intent: purchase_ticket
-    examples: |
-      - Chcę kupić bilet
-      - Tak, przejdź do zakupu
-      - Wybieram pierwszy bilet
-      - Potwierdzam zakup
-      - Kupuję
-      - Zarezerwuj
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
 
-  - intent: provide_info
-    examples: |
-      - [Warszawa](departure_city) [Kraków](destination_city) [jutro](date) [08:00](time)
-      - Z: [Poznań](departure_city) Do: [Szczecin](destination_city)
-      - Data: [15.03.2024](date)
-      - Godzina: [14:30](time)
-      - [Wrocław](departure_city) -> [Łódź](destination_city)
-      - [Za tydzień](date) o [10:45](time)
-      - Jutro rano
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
 
-  - intent: deny
-    examples: |
-      - Nie, dzięki
-      - Anuluj
-      - Nie chcę kupować
-      - Może później
-      - Rezygnuję
-      - Nie teraz
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?

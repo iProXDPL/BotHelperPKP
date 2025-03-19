@@ -1,80 +1,30 @@
-# plik: data/stories.yml
 version: "3.1"
 
 stories:
-  - story: Standardowe wyszukiwanie
-    steps:
-      - intent: greet
-      - action: utter_greet
-      - intent: provide_info
-        entities:
-          - departure_city: "Warszawa"
-          - destination_city: "Kraków"
-      - action: utter_ask_date
-      - intent: provide_info
-        entities:
-          - date: "jutro"
-      - action: utter_ask_time
-      - intent: provide_info
-        entities:
-          - time: "08:00"
-      - action: action_search_connections
-      - action: utter_offer_ticket_purchase
-      - intent: purchase_ticket
-      - action: action_start_purchase
 
-  - story: Szybkie wyszukiwanie z pełnymi danymi
-    steps:
-      - intent: search_connections
-        entities:
-          - departure_city: "Gdańsk"
-          - destination_city: "Warszawa"
-          - date: "za 3 dni"
-          - time: "16:20"
-      - action: action_search_connections
-      - action: utter_offer_ticket_purchase
-      - intent: purchase_ticket
-      - action: action_start_purchase
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
 
-  - story: Brakujące dane - krokowe uzupełnianie
-    steps:
-      - intent: search_connections
-        entities:
-          - departure_city: "Katowice"
-      - action: utter_ask_destination
-      - intent: provide_info
-        entities:
-          - destination_city: "Opole"
-      - action: utter_ask_date
-      - intent: provide_info
-        entities:
-          - date: "weekend"
-      - action: utter_ask_time
-      - intent: provide_info
-        entities:
-          - time: "rano"
-      - action: action_search_connections
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
 
-  - story: Zmiana zdania w trakcie
-    steps:
-      - intent: search_connections
-        entities:
-          - departure_city: "Lublin"
-          - destination_city: "Rzeszów"
-          - date: "dzisiaj"
-      - action: utter_ask_time
-      - intent: deny
-      - action: utter_goodbye
-
-  - story: Brak połączeń
-    steps:
-      - intent: search_connections
-        entities:
-          - departure_city: "Suwałki"
-          - destination_city: "Olsztyn"
-          - date: "01.01.2024"
-          - time: "05:00"
-      - action: action_search_connections
-      - action: utter_offer_ticket_purchase
-      - intent: deny
-      - action: utter_goodbye
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye

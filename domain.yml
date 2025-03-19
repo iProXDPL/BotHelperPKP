@@ -3,43 +3,31 @@ version: "3.1"
 intents:
   - greet
   - goodbye
-  - search_connections
-  - purchase_ticket
-  - provide_info: {used_entities: [departure_city, destination_city, date, time]}
-
-entities:
-  - departure_city
-  - destination_city
-  - date
-  - time
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
 
 responses:
   utter_greet:
-    - text: "Witaj! Jestem Asystentem PKP. Pomogę Ci znaleźć połączenie kolejowe i kupić bilet. Podaj mi najpierw skąd i dokąd chcesz jechać."
-  
-  utter_ask_departure:
-    - text: "Z jakiego miasta chcesz wyjechać?"
-  
-  utter_ask_destination:
-    - text: "Do jakiego miasta jedziesz?"
-  
-  utter_ask_date:
-    - text: "Na jaki dzień planujesz podróż?"
-  
-  utter_ask_time:
-    - text: "O której godzinie preferujesz wyjazd?"
-  
-  utter_offer_ticket_purchase:
-    - text: "Czy chcesz przejść do zakupu wybranego biletu?"
-    buttons:
-      - title: "Tak"
-        payload: "/purchase_ticket"
-      - title: "Nie"
-        payload: "/deny"
+  - text: "Hey! How are you?"
 
-actions:
-  - action_search_connections
-  - action_start_purchase
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
 
 session_config:
   session_expiration_time: 60
