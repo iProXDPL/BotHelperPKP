@@ -4,11 +4,15 @@ source ./venv/bin/activate
 pip install uv
 uv pip install rasa-pro
 
-rasa init
+rasa init --template calm
 
 .\venv\Scripts\activate
 
 rasa train
 
-rasa run actions
 rasa shell
+
+rasa inspect
+
+rasa run actions
+rasa run
