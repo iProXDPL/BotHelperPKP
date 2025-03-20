@@ -6,19 +6,24 @@ language: pl
 
 pipeline:
   - name: WhitespaceTokenizer
+  # Dzieli tekst na tokeny (słowa) na podstawie białych znaków (spacje, tabulatory, nowe linie).
   - name: RegexFeaturizer
+  # Tworzy cechy (features) na podstawie dopasowań do wzorców regex (np. liczby, e-maile, numery telefonów).
   - name: LexicalSyntacticFeaturizer
+  # Tworzy cechy na podstawie struktury języka (np. długość słowa, czy zaczyna się wielką literą).
   - name: CountVectorsFeaturizer
+  # Zamienia tekst na wektory licznikowe (oparte na częstotliwości występowania słów, jak w Bag-of-Words).
   - name: DIETClassifier
+    # Model głębokiego uczenia do klasyfikacji intencji i ekstrakcji encji.
     epochs: 100
+    constrain_similarities: true
+
   - name: EntitySynonymMapper
+  # Dopasowuje synonimy encji (np. jeśli "BMW" i "Beemer" oznaczają to samo, zostaną potraktowane jako ta sama encja).
   - name: ResponseSelector
+    # Model do wyboru odpowiedzi z predefiniowanych opcji.
     epochs: 100
 
 policies:
-  #   - name: MemoizationPolicy
   - name: RulePolicy
-#   - name: TEDPolicy
-#     max_history: 5
-#     epochs: 100
-#     constrain_similarities: true
+  # Trzyma się reguł rozmowy
