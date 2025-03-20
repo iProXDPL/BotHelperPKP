@@ -1,12 +1,11 @@
 python -m venv ./venv
-source ./venv/bin/activate
+.\venv\Scripts\activate
+
 
 pip install uv
 uv pip install rasa-pro
 
 rasa init --template calm
-
-.\venv\Scripts\activate
 
 rasa train
 

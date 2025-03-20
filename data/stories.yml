@@ -15,3 +15,33 @@ stories:
     steps:
       - intent: ask_weather
       - action: action_show_weather
+
+  - story: Pełne podanie informacji
+    steps:
+      - intent: request_ride
+        entities:
+          - departure: "Kraków"
+          - arrival: "Warszawa"
+          - time: "15:00"
+          - date: "jutro"
+      - action: action_validate_ride_form
+      - active_loop: null
+
+  - story: Częściowe informacje
+    steps:
+      - intent: request_ride
+      - action: action_validate_ride_form
+      - active_loop: action_validate_ride_form
+      - intent: inform
+        entities:
+          - departure: "Gdańsk"
+      - action: action_validate_ride_form
+      - intent: inform
+        entities:
+          - arrival: "Poznań"
+      - action: action_validate_ride_form
+      - intent: inform
+        entities:
+          - time: "12:00"
+      - action: action_validate_ride_form
+      - active_loop: null

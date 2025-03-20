@@ -6,15 +6,54 @@ nlu:
       - Cześć
       - Dzień dobry
       - Hej
+      - Siema
+      - Witaj
+      - Witam
+      - Halo
+      - Dobry wieczór
+      - Elo
+      - Hejka
+      - Serwus
+      - Siemanko
+      - No cześć
+      - Witajcie
 
   - intent: goodbye
     examples: |
       - Do widzenia
       - Nara
       - Pa
+      - Na razie
+      - Trzymaj się
+      - Miłego dnia
+      - Do zobaczenia
+      - Do jutra
+      - Do później
+      - Zegnaj
+      - Widzimy się
+      - No to pa
+      - Bądź zdrów
+      - Do usłyszenia
 
   - intent: ask_weather
     examples: |
       - Jaka jest pogoda?
       - Czy będzie padać?
       - Pogoda na dziś
+
+  - intent: request_ride
+    examples: |
+      - Chcę zamówić przejazd
+      - Potrzebuję przejazdu
+      - Potrzebuję przejazdu z [Krakowa](departure) do [Warszawy](arrival)
+      - [Jutro](date) o [15:00](time) z [Wrocławia](departure) do [Poznania](arrival)
+      - Planuję podróż na [piątek](date) o [8 rano](time)
+      - [2023-12-25T10:00](datetime) z [Katowic](departure) do [Rzeszowa](arrival)
+
+  - intent: inform
+    examples: |
+      - [Warszawa](arrival)
+      - [Kraków](departure)
+      - [14:00](time)
+      - [jutro](date)
+      - [pojutrze o 16](datetime)

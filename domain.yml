@@ -4,6 +4,48 @@ intents:
   - greet
   - goodbye
   - ask_weather
+  - request_ride
+  - inform
+
+entities:
+  - departure
+  - arrival
+  - time
+  - date
+  - datetime
+
+slots:
+  departure:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: departure
+    influence_conversation: false
+  arrival:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: arrival
+    influence_conversation: false
+  time:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: time
+    influence_conversation: false
+  date:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: date
+    influence_conversation: false
+
+forms:
+  ride_form:
+    required_slots:
+      - departure
+      - arrival
+      - time
 
 responses:
   utter_greet:
@@ -12,8 +54,21 @@ responses:
   utter_goodbye:
     - text: "Do zobaczenia!"
 
+  utter_ask_departure:
+    - text: "Proszę podać miejsce odjazdu."
+
+  utter_ask_arrival:
+    - text: "Proszę podać miejsce dojazdu."
+
+  utter_ask_time:
+    - text: "Proszę podać godzinę podróży."
+
+  utter_confirm:
+    - text: "Zamówiono przejazd z {departure} do {arrival} na {time} {date}"
+
 actions:
   - action_show_weather
+  - action_validate_ride_form
 
 session_config:
   session_expiration_time: 60
