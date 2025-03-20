@@ -11,13 +11,18 @@ rules:
       - intent: goodbye
       - action: utter_goodbye
 
-  - rule: weather inquiry
+  - rule: Aktywuj wyszukiwanie połączenia
     steps:
-      - intent: ask_weather
-      - action: action_show_weather
+      - intent: search_connection
+      - action: action_search_connection
 
-  - rule: Aktywacja formularza
+  - rule: Potwierdzenie zakupu biletu
     steps:
-      - intent: request_ride
-      - action: action_validate_ride_form
-      - active_loop: action_validate_ride_form
+      - intent: affirm
+      - action: utter_ticket_link
+      - action: utter_goodbye
+
+  - rule: Odrzucenie zakupu biletu
+    steps:
+      - intent: deny
+      - action: utter_goodbye

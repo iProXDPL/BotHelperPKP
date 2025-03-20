@@ -11,37 +11,30 @@ stories:
       - intent: goodbye
       - action: utter_goodbye
 
-  - story: weather inquiry
+  - story: Pełna informacja od użytkownika
     steps:
-      - intent: ask_weather
-      - action: action_show_weather
-
-  - story: Pełne podanie informacji
-    steps:
-      - intent: request_ride
+      - intent: search_connection
         entities:
-          - departure: "Kraków"
-          - arrival: "Warszawa"
-          - time: "15:00"
+          - departure_station: "Kraków"
+          - arrival_station: "Warszawa"
           - date: "jutro"
-      - action: action_validate_ride_form
-      - active_loop: null
+          - time: "08:00"
+      - action: action_search_connection
+      - intent: affirm
+      - action: utter_ticket_link
+      - action: utter_goodbye
 
-  - story: Częściowe informacje
+  - story: Brakująca informacja o dacie
     steps:
-      - intent: request_ride
-      - action: action_validate_ride_form
-      - active_loop: action_validate_ride_form
-      - intent: inform
+      - intent: search_connection
         entities:
-          - departure: "Gdańsk"
-      - action: action_validate_ride_form
-      - intent: inform
+          - departure_station: "Gdańsk"
+          - arrival_station: "Poznań"
+      - action: action_search_connection
+      - intent: provide_info
         entities:
-          - arrival: "Poznań"
-      - action: action_validate_ride_form
-      - intent: inform
-        entities:
-          - time: "12:00"
-      - action: action_validate_ride_form
-      - active_loop: null
+          - date: "poniedziałek"
+      - action: action_search_connection
+      - intent: affirm
+      - action: utter_ticket_link
+      - action: utter_goodbye

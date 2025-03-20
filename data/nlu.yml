@@ -35,25 +35,30 @@ nlu:
       - Bądź zdrów
       - Do usłyszenia
 
-  - intent: ask_weather
+  - intent: search_connection
     examples: |
-      - Jaka jest pogoda?
-      - Czy będzie padać?
-      - Pogoda na dziś
+      - Szukam połączenia z [Kraków](departure_station) do [Warszawa](arrival_station)
+      - Chcę jechać z [Gdańsk](departure_station) do [Poznań](arrival_station) [jutro](date)
+      - Połączenie kolejowe [Wrocław](departure_station) - [Katowice](arrival_station) [15:30](time)
+      - Znajdź pociąg z [Szczecin](departure_station) na [Łódź](arrival_station) [2023-12-24](date)
 
-  - intent: request_ride
+  - intent: affirm
     examples: |
-      - Chcę zamówić przejazd
-      - Potrzebuję przejazdu
-      - Potrzebuję przejazdu z [Krakowa](departure) do [Warszawy](arrival)
-      - [Jutro](date) o [15:00](time) z [Wrocławia](departure) do [Poznania](arrival)
-      - Planuję podróż na [piątek](date) o [8 rano](time)
-      - [2023-12-25T10:00](datetime) z [Katowic](departure) do [Rzeszowa](arrival)
+      - Tak
+      - Chcę kupić
+      - Owszem
+      - Proszę o bilet
 
-  - intent: inform
+  - intent: deny
     examples: |
-      - [Warszawa](arrival)
-      - [Kraków](departure)
-      - [14:00](time)
-      - [jutro](date)
-      - [pojutrze o 16](datetime)
+      - Nie
+      - Nie teraz
+      - Może później
+      - Dziękuję
+
+  - intent: provide_info
+    examples: |
+      - [Jutro](date)
+      - [14:15](time)
+      - Data to [piątek](date)
+      - Godzina [18:00](time)

@@ -3,29 +3,29 @@ version: "3.1"
 intents:
   - greet
   - goodbye
-  - ask_weather
-  - request_ride
-  - inform
+  - search_connection
+  - affirm
+  - deny
+  - provide_info
 
 entities:
-  - departure
-  - arrival
-  - time
+  - departure_station
+  - arrival_station
   - date
-  - datetime
+  - time
 
 slots:
-  departure:
+  departure_station:
     type: text
     mappings:
       - type: from_entity
-        entity: departure
+        entity: departure_station
     influence_conversation: false
-  arrival:
+  arrival_station:
     type: text
     mappings:
       - type: from_entity
-        entity: arrival
+        entity: arrival_station
     influence_conversation: false
   time:
     type: text
@@ -40,35 +40,36 @@ slots:
         entity: date
     influence_conversation: false
 
-forms:
-  ride_form:
-    required_slots:
-      - departure
-      - arrival
-      - time
-
 responses:
   utter_greet:
     - text: "Witaj! Jak mogę pomóc?"
 
-  utter_goodbye:
-    - text: "Do zobaczenia!"
+  utter_ask_departure_station:
+    - text: "Z której stacji chcesz wyjechać?"
 
-  utter_ask_departure:
-    - text: "Proszę podać miejsce odjazdu."
+  utter_ask_arrival_station:
+    - text: "Na którą stację jedziesz?"
 
-  utter_ask_arrival:
-    - text: "Proszę podać miejsce dojazdu."
+  utter_ask_date:
+    - text: "Na jaki dzień potrzebujesz połączenia?"
 
   utter_ask_time:
-    - text: "Proszę podać godzinę podróży."
+    - text: "O której godzinie chcesz podróżować?"
 
-  utter_confirm:
-    - text: "Zamówiono przejazd z {departure} do {arrival} na {time} {date}"
+  utter_offer_results:
+    - text: "Znaleziono połączenie z {departure_station} do {arrival_station} dnia {date} o {time}."
+
+  utter_ask_buy_ticket:
+    - text: "Czy chcesz teraz kupić bilet na to połączenie?"
+
+  utter_ticket_link:
+    - text: "Możesz kupić bilet tutaj: [Link do zakupu](https://example.com/bilety?from={departure_station}&to={arrival_station}&date={date}&time={time})"
+
+  utter_goodbye:
+    - text: "Dziękuję za skorzystanie z naszych usług. Miłej podróży!"
 
 actions:
-  - action_show_weather
-  - action_validate_ride_form
+  - action_search_connection
 
 session_config:
   session_expiration_time: 60

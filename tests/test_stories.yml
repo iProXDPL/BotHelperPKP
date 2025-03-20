@@ -15,20 +15,124 @@ stories:
         intent: goodbye
       - action: utter_goodbye
 
-  - story: Test pogoda podstawowy
+  - story: Pełne dane w jednej wiadomości
     steps:
       - user: |
-          Jaka jest pogoda?
-        intent: ask_weather
-      - action: action_show_weather
+          Chcę jechać z [Kraków](departure_station) do [Warszawa](arrival_station) [jutro](date) o [08:00](time)
+        intent: search_connection
+        entities:
+          - departure_station: "Kraków"
+          - arrival_station: "Warszawa"
+          - date: "jutro"
+          - time: "08:00"
+      - action: action_search_connection
       - bot: |
-          Aktualna pogoda w Warszawa: 20°C, słonecznie 🌞
+          Znaleziono połączenie z Kraków do Warszawa dnia jutro o 08:00. Czy chcesz kupić bilet?
+      - bot: |
+          Czy chcesz teraz kupić bilet na to połączenie?
+      - user: |
+          Tak
+        intent: affirm
+      - bot: |
+          Możesz kupić bilet tutaj: [Link do zakupu](https://example.com/bilety?from=Kraków&to=Warszawa&date=jutro&time=08:00)
+      - bot: |
+          Dziękuję za skorzystanie z naszych usług. Miłej podróży!
 
-  - story: Test pogoda z alternatywnym pytaniem
+  - story: Brak daty i godziny
     steps:
       - user: |
-          Czy będzie padać?
-        intent: ask_weather
-      - action: action_show_weather
+          Szukam pociągu z [Gdańsk](departure_station) do [Poznań](arrival_station)
+        intent: search_connection
+        entities:
+          - departure_station: "Gdańsk"
+          - arrival_station: "Poznań"
+      - action: action_search_connection
       - bot: |
-          Aktualna pogoda w Warszawa: 20°C, słonecznie 🌞
+          Na jaki dzień potrzebujesz połączenia?
+      - user: |
+          [pojutrze](date)
+        intent: provide_info
+        entities:
+          - date: "pojutrze"
+      - action: action_search_connection
+      - bot: |
+          O której godzinie chcesz podróżować?
+      - user: |
+          [12:30](time)
+        intent: provide_info
+        entities:
+          - time: "12:30"
+      - action: action_search_connection
+      - bot: |
+          Znaleziono połączenie z Gdańsk do Poznań dnia pojutrze o 12:30. Czy chcesz kupić bilet?
+      - bot: |
+          Czy chcesz teraz kupić bilet na to połączenie?
+      - user: |
+          Nie
+        intent: deny
+      - bot: |
+          Dziękuję za skorzystanie z naszych usług. Miłej podróży!
+
+  - story: Tylko stacja docelowa w pierwszej wiadomości
+    steps:
+      - user: |
+          Na [Łódź](arrival_station) proszę
+        intent: search_connection
+        entities:
+          - arrival_station: "Łódź"
+      - action: action_search_connection
+      - bot: |
+          Z której stacji chcesz wyjechać?
+      - user: |
+          [Wrocław](departure_station)
+        intent: provide_info
+        entities:
+          - departure_station: "Wrocław"
+      - action: action_search_connection
+      - bot: |
+          Na jaki dzień potrzebujesz połączenia?
+      - user: |
+          [2023-12-24](date)
+        intent: provide_info
+        entities:
+          - date: "2023-12-24"
+      - action: action_search_connection
+      - bot: |
+          O której godzinie chcesz podróżować?
+      - user: |
+          [18:00](time)
+        intent: provide_info
+        entities:
+          - time: "18:00"
+      - action: action_search_connection
+      - bot: |
+          Znaleziono połączenie z Wrocław do Łódź dnia 2023-12-24 o 18:00. Czy chcesz kupić bilet?
+      - bot: |
+          Czy chcesz teraz kupić bilet na to połączenie?
+      - user: |
+          Proszę o bilet
+        intent: affirm
+      - bot: |
+          Możesz kupić bilet tutaj: [Link do zakupu](https://example.com/bilety?from=Wrocław&to=Łódź&date=2023-12-24&time=18:00)
+      - bot: |
+          Dziękuję za skorzystanie z naszych usług. Miłej podróży!
+
+  - story: Odmowa zakupu biletu
+    steps:
+      - user: |
+          Połączenie z [Katowice](departure_station) do [Kielce](arrival_station) [dziś](date)
+        intent: search_connection
+        entities:
+          - departure_station: "Katowice"
+          - arrival_station: "Kielce"
+          - date: "dziś"
+      - action: action_search_connection
+      - bot: |
+          Znaleziono połączenie z Katowice do Kielce dnia dziś o 00:00. Czy chcesz kupić bilet?
+      - bot: |
+          Czy chcesz teraz kupić bilet na to połączenie?
+      - user: |
+          Nie teraz
+        intent: deny
+      - bot: |
+          Dziękuję za skorzystanie z naszych usług. Miłej podróży!
