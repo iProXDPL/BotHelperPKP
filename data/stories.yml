@@ -31,9 +31,6 @@ stories:
       - intent: provide_info
         entities:
           - departure_station: "Rzeszów"
-      - action: action_search_connection
-      - intent: provide_info
-        entities:
           - arrival_station: "Przeworsk"
       - action: action_search_connection
       - intent: provide_info

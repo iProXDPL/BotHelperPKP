@@ -15,11 +15,11 @@ class ActionSearchConnection(Action):
         time = tracker.get_slot("time") or datetime.today().strftime('%H:%M:%S')
 
         if not departure:
-            dispatcher.utter_message(response="utter_ask_departure_station")
+            dispatcher.utter_message(response="utter_ask_station")
             return []
         
         if not arrival:
-            dispatcher.utter_message(response="utter_ask_arrival_station")
+            dispatcher.utter_message(response="utter_ask_station")
             return []
         
         if not date:

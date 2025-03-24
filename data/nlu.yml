@@ -65,12 +65,10 @@ nlu:
 
   - intent: provide_info
     examples: |
-      - [Kraków](departure_station)
-      - [Kraków](arrival_station)
-      - [Warszawa](departure_station)
-      - [Warszawa](arrival_station)
-      - [Rzeszów](departure_station)
-      - [Przeworsk](arrival_station)
+      - Z [Kraków](departure_station) do [Warszawa](arrival_station)
+      - [Przeworsk](departure_station) do [Rzeszów](arrival_station)
+      - [Rzeszów](departure_station) do [Przeworsk](arrival_station)
+      - [Wrocław](departure_station),[Gdańsk](arrival_station)
       - [2023-12-24](date)
       - [Jutro](date)
       - [14:15](time)

@@ -44,11 +44,8 @@ responses:
   utter_greet:
     - text: "Witaj! Jak mogę pomóc?"
 
-  utter_ask_departure_station:
-    - text: "Z której stacji chcesz wyjechać?"
-
-  utter_ask_arrival_station:
-    - text: "Na którą stację jedziesz?"
+  utter_ask_station:
+    - text: "Napisz z jakiej stacji chcesz wyjechać.A do jakiej chcesz dojechać?"
 
   utter_ask_date:
     - text: "Na jaki dzień potrzebujesz połączenia?"
