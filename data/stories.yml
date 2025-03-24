@@ -24,16 +24,25 @@ stories:
       - action: utter_ticket_link
       - action: utter_goodbye
 
-  - story: Brakująca informacja o dacie
+  - story: Brakująca informacji all
     steps:
       - intent: search_connection
-        entities:
-          - departure_station: "Gdańsk"
-          - arrival_station: "Poznań"
       - action: action_search_connection
       - intent: provide_info
         entities:
-          - date: "poniedziałek"
+          - departure_station: "Rzeszów"
+      - action: action_search_connection
+      - intent: provide_info
+        entities:
+          - arrival_station: "Przeworsk"
+      - action: action_search_connection
+      - intent: provide_info
+        entities:
+          - time: "17:00"
+      - action: action_search_connection
+      - intent: provide_info
+        entities:
+          - date: "24.03.2025"
       - action: action_search_connection
       - intent: affirm
       - action: utter_ticket_link

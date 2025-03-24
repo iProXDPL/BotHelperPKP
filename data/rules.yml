@@ -26,3 +26,8 @@ rules:
     steps:
       - intent: deny
       - action: utter_goodbye
+
+  - rule: Brakująca informacji
+    steps:
+      - intent: provide_info
+      - action: action_search_connection

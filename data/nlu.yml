@@ -38,6 +38,12 @@ nlu:
 
   - intent: search_connection
     examples: |
+      - Szukam połączenia
+      - Chcę jechać
+      - Znajdź mi pociąg
+      - Potrzebuję połączenia
+      - Interesuje mnie podróż
+      - Szukam pociągu
       - Szukam połączenia z [Kraków](departure_station) do [Warszawa](arrival_station)
       - Chcę jechać z [Gdańsk](departure_station) do [Poznań](arrival_station) [jutro](date)
       - Połączenie kolejowe [Wrocław](departure_station) - [Katowice](arrival_station) [15:30](time)
@@ -59,6 +65,13 @@ nlu:
 
   - intent: provide_info
     examples: |
+      - [Kraków](departure_station)
+      - [Kraków](arrival_station)
+      - [Warszawa](departure_station)
+      - [Warszawa](arrival_station)
+      - [Rzeszów](departure_station)
+      - [Przeworsk](arrival_station)
+      - [2023-12-24](date)
       - [Jutro](date)
       - [14:15](time)
       - Data to [piątek](date)
