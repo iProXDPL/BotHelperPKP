@@ -32,7 +32,7 @@ class ActionSearchConnection(Action):
 
         # Tutaj można dodać logikę wyszukiwania połączenia
         # W tym przykładzie po prostu wyświetlamy zebrane informacje
-        
+        apikeygus="8138f0d9-3fcd-4fe5-a6a6-08dd6fc45813"
         dispatcher.utter_message(response="utter_offer_results",
             departure_station=departure,
             arrival_station=arrival,
