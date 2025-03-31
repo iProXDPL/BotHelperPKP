@@ -1,0 +1,8102 @@
+[
+  {
+    "lat": 51.8691546,
+    "lon": 19.3837488,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Zgierz Północ",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.9234492,
+    "lon": 19.2673865,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chociszew",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9714974,
+    "lon": 19.2662162,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ozorków",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.049237,
+    "lon": 19.1932523,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łęczyca",
+    "name:pl": "Łęczyca",
+    "train": "yes"
+  },
+  {
+    "lat": 52.1568164,
+    "lon": 19.2765941,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Witonia",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2159107,
+    "lon": 18.7678853,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Barłogi",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3969958,
+    "lon": 17.1583684,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Paczkowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.4042681,
+    "lon": 17.0744516,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKM",
+    "network:short": null,
+    "name": "Swarzędz",
+    "name:pl": "Swarzędz",
+    "train": null
+  },
+  {
+    "lat": 52.2515889,
+    "lon": 21.0523678,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Warszawa Wschodnia",
+    "name:pl": "Warszawa Wschodnia",
+    "train": "yes"
+  },
+  {
+    "lat": 53.0858024,
+    "lon": 17.9480419,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Trzciniec",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.2145607,
+    "lon": 18.0294586,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Maksymilianowo",
+    "name:pl": "Maksymilianowo",
+    "train": null
+  },
+  {
+    "lat": 50.0835874,
+    "lon": 19.8597855,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kraków Mydlniki",
+    "name:pl": "Kraków Mydlniki",
+    "train": "yes"
+  },
+  {
+    "lat": 49.9773387,
+    "lon": 20.4309729,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bochnia",
+    "name:pl": "Bochnia",
+    "train": null
+  },
+  {
+    "lat": 50.1075321,
+    "lon": 19.9954682,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kraków Batowice",
+    "name:pl": "Kraków Batowice",
+    "train": "yes"
+  },
+  {
+    "lat": 51.7209139,
+    "lon": 19.3592771,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Łódź Lublinek",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.5469372,
+    "lon": 20.0336231,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Łódzka Kolej Aglomeracyjna;Polregio",
+    "network:short": "ŁKA;PR",
+    "name": "Tomaszów Mazowiecki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.785741,
+    "lon": 20.4976658,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio;PKP Intercity",
+    "network:short": "PR;IC",
+    "name": "Olsztyn Główny",
+    "name:pl": "Olsztyn Główny",
+    "train": "yes"
+  },
+  {
+    "lat": 52.3439762,
+    "lon": 16.8928174,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Luboń koło Poznania",
+    "name:pl": "Luboń koło Poznania",
+    "train": null
+  },
+  {
+    "lat": 51.097916,
+    "lon": 17.0379512,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Wrocław Główny",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.0686663,
+    "lon": 19.947802,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kraków Główny",
+    "name:pl": "Kraków Główny",
+    "train": "yes"
+  },
+  {
+    "lat": 50.0350214,
+    "lon": 19.9747852,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kraków Płaszów",
+    "name:pl": "Kraków Płaszów",
+    "train": null
+  },
+  {
+    "lat": 52.6585904,
+    "lon": 17.9461751,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mogilno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1425485,
+    "lon": 17.0835373,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Sołtysowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.5976548,
+    "lon": 18.7136441,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sieradz",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7915853,
+    "lon": 19.0291879,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Częstochowa Gnaszyn",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.9307485,
+    "lon": 17.2974306,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Oława",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7208436,
+    "lon": 18.791065,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lisów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.73355,
+    "lon": 23.5830712,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Hajnówka",
+    "name:pl": "Hajnówka",
+    "train": null
+  },
+  {
+    "lat": 50.6086503,
+    "lon": 17.0338875,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ziębice",
+    "name:pl": "Ziębice",
+    "train": null
+  },
+  {
+    "lat": 53.4158614,
+    "lon": 19.7804705,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Montowo",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.8880687,
+    "lon": 18.4039475,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gniewkowo",
+    "name:pl": "Gniewkowo",
+    "train": null
+  },
+  {
+    "lat": 53.5481472,
+    "lon": 18.1128342,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wierzchucin",
+    "name:pl": "Wierzchucin",
+    "train": null
+  },
+  {
+    "lat": 53.7111404,
+    "lon": 19.3291941,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Susz",
+    "name:pl": "Susz",
+    "train": null
+  },
+  {
+    "lat": 52.3019627,
+    "lon": 17.0455008,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gądki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2633303,
+    "lon": 17.1573486,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pierzchno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2183302,
+    "lon": 17.2741954,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Środa Wielkopolska",
+    "name:pl": "Środa Wielkopolska",
+    "train": null
+  },
+  {
+    "lat": 52.2254277,
+    "lon": 16.5312351,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Granowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2304733,
+    "lon": 16.363892,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grodzisk Wielkopolski",
+    "name:pl": "Grodzisk Wielkopolski",
+    "train": "yes"
+  },
+  {
+    "lat": 52.4952535,
+    "lon": 16.8363915,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Złotniki",
+    "name:pl": "Złotniki",
+    "train": null
+  },
+  {
+    "lat": 50.4417385,
+    "lon": 18.513176,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Toszek",
+    "name:pl": "Toszek",
+    "train": null
+  },
+  {
+    "lat": 50.4838159,
+    "lon": 18.4041013,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Błotnica Strzelecka",
+    "name:pl": "Błotnica Strzelecka",
+    "train": null
+  },
+  {
+    "lat": 53.339557,
+    "lon": 15.031126,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polskie Koleje Państwowe Polskie Linie Kolejowe spółka akcyjna",
+    "network:short": null,
+    "name": "Stargard",
+    "name:pl": "Stargard",
+    "train": null
+  },
+  {
+    "lat": 54.0380451,
+    "lon": 18.6561771,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Swarożyn",
+    "name:pl": "Swarożyn",
+    "train": null
+  },
+  {
+    "lat": 51.2156915,
+    "lon": 16.4859684,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Linia kolejowa E-30",
+    "network:short": null,
+    "name": "Malczyce",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1419618,
+    "lon": 16.8672785,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Leśnica",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.4400569,
+    "lon": 18.5623141,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio;SKM Trójmiasto",
+    "network:short": "IC;PR;SKM",
+    "name": "Sopot",
+    "name:pl": "Sopot",
+    "train": "yes"
+  },
+  {
+    "lat": 51.5273812,
+    "lon": 17.2950351,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Milicz",
+    "name:pl": "Milicz",
+    "train": null
+  },
+  {
+    "lat": 52.4449451,
+    "lon": 15.5936247,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Międzyrzecz",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 49.9773429,
+    "lon": 19.8229488,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Skawina",
+    "name:pl": "Skawina",
+    "train": null
+  },
+  {
+    "lat": 52.169566,
+    "lon": 15.8160779,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Babimost",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6773468,
+    "lon": 17.5657843,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Biadki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.7362391,
+    "lon": 18.5766364,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kuźnica (Hel)",
+    "name:pl": "Kuźnica (Hel)",
+    "train": "yes"
+  },
+  {
+    "lat": 53.7811366,
+    "lon": 15.7727241,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Świdwin",
+    "name:pl": "Świdwin",
+    "train": "yes"
+  },
+  {
+    "lat": 54.5336204,
+    "lon": 17.7502364,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lębork",
+    "name:pl": "Lębork",
+    "train": null
+  },
+  {
+    "lat": 54.6057529,
+    "lon": 18.2296473,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wejherowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.0361294,
+    "lon": 16.9757672,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bielany Wrocławskie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.200657,
+    "lon": 17.385924,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Dolnośląskie;Polregio;PKP Intercity",
+    "network:short": "KD;PR;IC",
+    "name": "Oleśnica",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.0743908,
+    "lon": 17.717021,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Namysłów",
+    "name:pl": "Namysłów",
+    "train": null
+  },
+  {
+    "lat": 51.1284443,
+    "lon": 17.5461214,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bierutów",
+    "name:pl": "Bierutów",
+    "train": null
+  },
+  {
+    "lat": 51.1841096,
+    "lon": 17.2760947,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Borowa Oleśnicka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.0486167,
+    "lon": 17.8833572,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Domaszowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.0134476,
+    "lon": 18.047335,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wołczyn",
+    "name:pl": "Wołczyn",
+    "train": null
+  },
+  {
+    "lat": 50.9710826,
+    "lon": 18.201009,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kluczbork",
+    "name:pl": "Kluczbork",
+    "train": null
+  },
+  {
+    "lat": 51.2996135,
+    "lon": 16.907326,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Oborniki Śląskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1670923,
+    "lon": 16.9966038,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Osobowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.5160756,
+    "lon": 23.5857364,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Włodawa",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.200863,
+    "lon": 18.2985743,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kuźnia Raciborska",
+    "name:pl": "Kuźnia Raciborska",
+    "train": null
+  },
+  {
+    "lat": 50.3450593,
+    "lon": 18.2046067,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kędzierzyn-Koźle",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2587478,
+    "lon": 22.7015016,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Niemojki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3011598,
+    "lon": 22.8211063,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Platerów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.1617935,
+    "lon": 22.2719159,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Siedlce",
+    "name:pl": "Siedlce",
+    "train": null
+  },
+  {
+    "lat": 51.9548509,
+    "lon": 21.5340232,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Koleje Mazowieckie",
+    "network:short": "IC;KM",
+    "name": "Pilawa",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.5851509,
+    "lon": 16.8226024,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wargowo",
+    "name:pl": "Wargowo",
+    "train": null
+  },
+  {
+    "lat": 51.4750247,
+    "lon": 21.9490895,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Puławy Azoty",
+    "name:pl": "Puławy Azoty",
+    "train": null
+  },
+  {
+    "lat": 52.3269181,
+    "lon": 17.5552546,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Września",
+    "name:pl": "Września",
+    "train": null
+  },
+  {
+    "lat": 53.9044446,
+    "lon": 14.2660228,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Świnoujście",
+    "name:pl": "Świnoujście",
+    "train": null
+  },
+  {
+    "lat": 53.8243458,
+    "lon": 22.363054,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Ełk",
+    "name:pl": "Ełk",
+    "train": null
+  },
+  {
+    "lat": 51.2488147,
+    "lon": 20.9845611,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jastrząb",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.7135833,
+    "lon": 23.2385958,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Zamość",
+    "name:pl": "Zamość",
+    "train": null
+  },
+  {
+    "lat": 52.0128282,
+    "lon": 14.9520389,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wężyska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.0151544,
+    "lon": 15.4124967,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czerwieńsk",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2361503,
+    "lon": 15.9720602,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Stefanowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.330374,
+    "lon": 19.1848234,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dąbrowa Górnicza",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.3544202,
+    "lon": 16.6408355,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gorzanów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2901013,
+    "lon": 15.2229659,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Węgliniec",
+    "name:pl": "Węgliniec",
+    "train": null
+  },
+  {
+    "lat": 51.1261453,
+    "lon": 16.9164074,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Żerniki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1196824,
+    "lon": 16.9551819,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Nowy Dwór",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1111407,
+    "lon": 16.9747674,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Muchobór",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7852469,
+    "lon": 16.0228244,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kamienna Góra",
+    "name:pl": "Kamienna Góra",
+    "train": "yes"
+  },
+  {
+    "lat": 51.4044231,
+    "lon": 16.4714106,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Małowice Wołowskie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.0295633,
+    "lon": 17.1231438,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Święta Katarzyna",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.1509826,
+    "lon": 19.4155509,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Elbląg",
+    "name:pl": "Elbląg",
+    "train": null
+  },
+  {
+    "lat": 51.761533,
+    "lon": 16.808103,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Poniec",
+    "name:pl": "Poniec",
+    "train": null
+  },
+  {
+    "lat": 52.0778031,
+    "lon": 16.6405555,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kościan",
+    "name:pl": "Kościan",
+    "train": null
+  },
+  {
+    "lat": 50.7842124,
+    "lon": 17.0602369,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Strzelin",
+    "name:pl": "Strzelin",
+    "train": "yes"
+  },
+  {
+    "lat": 50.9834219,
+    "lon": 17.0495813,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Żórawina",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.921159,
+    "lon": 19.7356245,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Małdyty",
+    "name:pl": "Małdyty",
+    "train": null
+  },
+  {
+    "lat": 54.1001205,
+    "lon": 19.5732271,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bogaczewo",
+    "name:pl": "Bogaczewo",
+    "train": null
+  },
+  {
+    "lat": 53.1405223,
+    "lon": 23.1841933,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Białystok Fabryczny",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.7973211,
+    "lon": 19.1069996,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Częstochowa Stradom",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7802204,
+    "lon": 20.5284185,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Radkowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.8182563,
+    "lon": 20.5504133,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sitkówka Nowiny",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.8563947,
+    "lon": 19.9460452,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Włoszczowa Północ",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.7503794,
+    "lon": 16.2017185,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Boguszów-Gorce",
+    "name:pl": "Boguszów-Gorce",
+    "train": "yes"
+  },
+  {
+    "lat": 50.7623764,
+    "lon": 16.1672349,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Boguszów-Gorce Zachód",
+    "name:pl": "Boguszów-Gorce Zachód",
+    "train": "yes"
+  },
+  {
+    "lat": 52.5913607,
+    "lon": 14.6469745,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Kostrzyn",
+    "name:pl": "Kostrzyn",
+    "train": null
+  },
+  {
+    "lat": 51.9327418,
+    "lon": 16.3736795,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Włoszakowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.0146183,
+    "lon": 16.2160829,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nowawieś Mochy",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.9742632,
+    "lon": 16.9265914,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kobierzyce",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.9959795,
+    "lon": 16.5849701,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Stare Bojanowo",
+    "name:pl": "Stare Bojanowo",
+    "train": null
+  },
+  {
+    "lat": 53.1211871,
+    "lon": 23.0867818,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Białystok Starosielce",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.6673743,
+    "lon": 14.8960523,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Witnica",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.6726549,
+    "lon": 15.0028876,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nowiny Wielkie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.6893373,
+    "lon": 15.0794046,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bogdaniec",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.3430235,
+    "lon": 18.9152842,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bytom",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.0698389,
+    "lon": 17.4976459,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Żerków",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.1114527,
+    "lon": 16.1083096,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wolsztyn",
+    "name:pl": "Wolsztyn",
+    "train": null
+  },
+  {
+    "lat": 53.4443875,
+    "lon": 19.7127607,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Zajączkowo Lubawskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.1382931,
+    "lon": 16.2639706,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rakoniewice",
+    "name:pl": "Rakoniewice",
+    "train": null
+  },
+  {
+    "lat": 52.8834587,
+    "lon": 20.5912409,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Ciechanów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.1658315,
+    "lon": 20.2933087,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie",
+    "network:short": "KM",
+    "name": "Iłowo",
+    "name:pl": "Iłowo",
+    "train": "yes"
+  },
+  {
+    "lat": 53.3809801,
+    "lon": 19.9131672,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Rybno Pomorskie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.9965089,
+    "lon": 20.459871,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Konopki",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.0685895,
+    "lon": 19.4276249,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rypin",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.1260799,
+    "lon": 20.35096,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie",
+    "network:short": "KM",
+    "name": "Mława",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.7392741,
+    "lon": 20.7195917,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Gąsocin",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.3201279,
+    "lon": 20.0350877,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Gralewo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.6704809,
+    "lon": 20.7627692,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Świercze",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.3585075,
+    "lon": 20.4141248,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Nidzica",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.1180111,
+    "lon": 19.7983574,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zabierzów",
+    "name:pl": "Zabierzów",
+    "train": null
+  },
+  {
+    "lat": 51.2546842,
+    "lon": 15.3891682,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zebrzydowa",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7284605,
+    "lon": 17.0299488,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Biały Kościół",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6630769,
+    "lon": 17.0301377,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Henryków",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 49.9894595,
+    "lon": 18.2756931,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krzyżanowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.5634447,
+    "lon": 16.9467628,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Starczów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2022073,
+    "lon": 20.4163976,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Teresin Niepokalanów",
+    "name:pl": "Teresin Niepokalanów",
+    "train": "yes"
+  },
+  {
+    "lat": 52.4334171,
+    "lon": 19.4761741,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gostynin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 49.9603681,
+    "lon": 18.338892,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Olza",
+    "name:pl": "Olza",
+    "train": "yes"
+  },
+  {
+    "lat": 50.0082337,
+    "lon": 18.4763476,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wodzisław Śląski",
+    "name:pl": "Wodzisław Śląski",
+    "train": null
+  },
+  {
+    "lat": 51.0306885,
+    "lon": 17.0661283,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Smardzów Wrocławski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6128545,
+    "lon": 17.7619041,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Topola-Osiedle",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6288941,
+    "lon": 18.5700068,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sędzice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6492287,
+    "lon": 17.8052356,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ostrów Wielkopolski",
+    "name:pl": "Ostrów Wielkopolski",
+    "train": "yes"
+  },
+  {
+    "lat": 50.0420749,
+    "lon": 19.2003711,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Małopolskie;Koleje Śląskie;Polregio;PKP Intercity",
+    "network:short": "KMł;KŚ;PR;IC",
+    "name": "Oświęcim",
+    "name:pl": "Oświęcim",
+    "train": "yes"
+  },
+  {
+    "lat": 50.493165,
+    "lon": 18.0186011,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gogolin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.6530081,
+    "lon": 18.4130307,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mrzezino",
+    "name:pl": "Mrzezino",
+    "train": "yes"
+  },
+  {
+    "lat": 52.5153806,
+    "lon": 14.6509453,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ługi Górzyckie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.2639841,
+    "lon": 19.4594836,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bukowno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 49.9674435,
+    "lon": 19.6279174,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Brzeźnica",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.5691391,
+    "lon": 18.3866641,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rumia",
+    "name:pl": "Rumia",
+    "train": null
+  },
+  {
+    "lat": 54.7559677,
+    "lon": 17.5534151,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łeba",
+    "name:pl": "Łeba",
+    "train": "yes"
+  },
+  {
+    "lat": 54.7934715,
+    "lon": 18.4019048,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Władysławowo",
+    "name:pl": "Władysławowo",
+    "train": "yes"
+  },
+  {
+    "lat": 54.7016654,
+    "lon": 18.6766494,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jastarnia",
+    "name:pl": "Jastarnia",
+    "train": "yes"
+  },
+  {
+    "lat": 54.6110402,
+    "lon": 18.8008848,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Hel",
+    "name:pl": "Hel",
+    "train": "yes"
+  },
+  {
+    "lat": 50.0674241,
+    "lon": 22.1145204,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Strażów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.2926787,
+    "lon": 21.4296964,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mielec",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.1445089,
+    "lon": 16.6549882,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Międzylesie",
+    "name:pl": "Międzylesie",
+    "train": null
+  },
+  {
+    "lat": 52.153028,
+    "lon": 15.0814867,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Budachów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3066489,
+    "lon": 14.867405,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jerzmanice Lubuskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2461518,
+    "lon": 14.9636425,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gądków Wielki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.0905453,
+    "lon": 15.2679483,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Radnica",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.433415,
+    "lon": 18.7254506,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grudziądz Mniszek",
+    "name:pl": "Grudziądz Mniszek",
+    "train": null
+  },
+  {
+    "lat": 53.2652414,
+    "lon": 18.982122,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Wąbrzeźno",
+    "name:pl": "Wąbrzeźno",
+    "train": null
+  },
+  {
+    "lat": 53.4369061,
+    "lon": 18.947402,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mełno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.3306135,
+    "lon": 19.0682553,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Książki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.3934491,
+    "lon": 19.1629237,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Jabłonowo Pomorskie",
+    "name:pl": "Jabłonowo Pomorskie",
+    "train": null
+  },
+  {
+    "lat": 53.1278962,
+    "lon": 18.0838582,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bydgoszcz Wschód",
+    "name:pl": "Bydgoszcz Wschód",
+    "train": null
+  },
+  {
+    "lat": 53.1071543,
+    "lon": 18.1126399,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bydgoszcz Łęgnowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.4252729,
+    "lon": 20.7240617,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Nowy Dwór Mazowiecki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.2142832,
+    "lon": 16.0731846,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mścice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6571094,
+    "lon": 17.3703906,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Człuchów",
+    "name:pl": "Człuchów",
+    "train": null
+  },
+  {
+    "lat": 53.5810821,
+    "lon": 19.5731214,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Iława Główna",
+    "name:pl": "Iława Główna",
+    "train": null
+  },
+  {
+    "lat": 50.0214997,
+    "lon": 20.0298488,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kraków Bieżanów",
+    "name:pl": "Kraków Bieżanów",
+    "train": "yes"
+  },
+  {
+    "lat": 54.3836565,
+    "lon": 16.9266311,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Słonowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.1648121,
+    "lon": 15.4041112,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Choszczno",
+    "name:pl": "Choszczno",
+    "train": null
+  },
+  {
+    "lat": 51.845967,
+    "lon": 16.5654713,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Wielkopolskie;PKP Intercity;Polregio",
+    "network:short": "KW;IC;PR",
+    "name": "Leszno",
+    "name:pl": "Leszno",
+    "train": null
+  },
+  {
+    "lat": 51.3015856,
+    "lon": 19.6601416,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rozprza",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2182938,
+    "lon": 19.603241,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gorzkowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.206084,
+    "lon": 20.9145689,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Warszawa Włochy",
+    "name:pl": "Warszawa Włochy",
+    "train": "yes"
+  },
+  {
+    "lat": 50.4298044,
+    "lon": 16.2440979,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP PLK S.A.",
+    "network:short": null,
+    "name": "Kudowa-Zdrój",
+    "name:pl": "Kudowa-Zdrój",
+    "train": "yes"
+  },
+  {
+    "lat": 50.5658817,
+    "lon": 20.0548996,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sędziszów",
+    "name:pl": "Sędziszów",
+    "train": null
+  },
+  {
+    "lat": 52.4016269,
+    "lon": 16.9115788,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Poznań Główny",
+    "name:pl": "Poznań Główny",
+    "train": "yes"
+  },
+  {
+    "lat": 50.5663493,
+    "lon": 18.8882607,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kalety",
+    "name:pl": "Kalety",
+    "train": null
+  },
+  {
+    "lat": 52.8537996,
+    "lon": 15.8339384,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nowe Drezdenko",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4753316,
+    "lon": 16.9018748,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Żmigród",
+    "name:pl": "Żmigród",
+    "train": null
+  },
+  {
+    "lat": 52.5296664,
+    "lon": 17.6032272,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gniezno",
+    "name:pl": "Gniezno",
+    "train": null
+  },
+  {
+    "lat": 51.3728629,
+    "lon": 20.2715067,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Opoczno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.2697299,
+    "lon": 19.1253609,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sosnowiec Południowy",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 49.6711454,
+    "lon": 20.660796,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Marcinkowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.9685059,
+    "lon": 18.0965381,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nowa Wieś Wielka",
+    "name:pl": "Nowa Wieś Wielka",
+    "train": null
+  },
+  {
+    "lat": 52.8776425,
+    "lon": 16.0194221,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krzyż",
+    "name:pl": "Krzyż",
+    "train": null
+  },
+  {
+    "lat": 50.8789262,
+    "lon": 17.02458,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Boreczek",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.5095162,
+    "lon": 16.7579648,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bardo Przyłęk",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.2131508,
+    "lon": 16.6552382,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Domaszków",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.2855574,
+    "lon": 16.6469871,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bystrzyca Kłodzka Przedmieście",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1256579,
+    "lon": 17.0329905,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Nadodrze",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.3108201,
+    "lon": 19.2685547,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dąbrowa Górnicza Strzemieszyce",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2403658,
+    "lon": 16.8516538,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mosina",
+    "name:pl": "Mosina",
+    "train": null
+  },
+  {
+    "lat": 52.8683481,
+    "lon": 18.3582354,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wierzchosławice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.8410371,
+    "lon": 18.3042781,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Więcławice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.8051894,
+    "lon": 18.2439417,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Inowrocław",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9360279,
+    "lon": 17.5627832,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Witaszyce",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.0231581,
+    "lon": 17.4405874,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mieszków",
+    "name:pl": "Mieszków",
+    "train": null
+  },
+  {
+    "lat": 52.0702477,
+    "lon": 17.3495687,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chocicza",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.1386953,
+    "lon": 17.3088147,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sulęcinek",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6802225,
+    "lon": 20.4372063,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Gągławki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.277319,
+    "lon": 15.8821415,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kalisz Pomorski",
+    "name:pl": "Kalisz Pomorski",
+    "train": null
+  },
+  {
+    "lat": 52.2086017,
+    "lon": 17.4767463,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Miłosław",
+    "name:pl": "Miłosław",
+    "train": null
+  },
+  {
+    "lat": 52.1274118,
+    "lon": 17.4777998,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Orzechowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6799853,
+    "lon": 16.9385743,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czarne",
+    "name:pl": "Czarne",
+    "train": null
+  },
+  {
+    "lat": 53.6938225,
+    "lon": 16.7055139,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szczecinek",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.8602488,
+    "lon": 16.6120987,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Wielkopolskie",
+    "network:short": "KW",
+    "name": "Leszno Grzybowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.1385199,
+    "lon": 16.7519046,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czempiń",
+    "name:pl": "Czempiń",
+    "train": null
+  },
+  {
+    "lat": 50.9744474,
+    "lon": 20.6634975,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zagnańsk",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.0496835,
+    "lon": 17.2358061,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czernica Wrocławska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6995415,
+    "lon": 18.7486371,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kochanowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.3341179,
+    "lon": 18.1985444,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pruszcz Pomorski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2669629,
+    "lon": 16.7250326,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Brzeg Dolny",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.0001062,
+    "lon": 18.6146297,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Toruń Główny",
+    "name:pl": "Toruń Główny",
+    "train": null
+  },
+  {
+    "lat": 53.0264709,
+    "lon": 18.6334589,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Toruń Wschodni",
+    "name:pl": "Toruń Wschodni",
+    "train": "yes"
+  },
+  {
+    "lat": 51.7989604,
+    "lon": 15.7087987,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nowa Sól",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.9078368,
+    "lon": 16.7007723,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sobótka Zachodnia",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.7302134,
+    "lon": 23.2115546,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Lewki",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.17204,
+    "lon": 23.7834279,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dorohusk",
+    "name:pl": "Dorohusk",
+    "train": null
+  },
+  {
+    "lat": 53.1191729,
+    "lon": 17.2950517,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wyrzysk Osiek",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2776886,
+    "lon": 15.9376619,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chojnów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2422757,
+    "lon": 22.5995426,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Lublin Północny",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7016833,
+    "lon": 17.4261942,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krotoszyn",
+    "name:pl": "Krotoszyn",
+    "train": "yes"
+  },
+  {
+    "lat": 53.472892,
+    "lon": 22.6568336,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Osowiec",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3870757,
+    "lon": 16.8489434,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Skokowa",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.027281,
+    "lon": 18.0205697,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Brzoza Bydgoska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.5743116,
+    "lon": 19.3290231,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Myszków",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.4598324,
+    "lon": 14.7126655,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Laski Lubuskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.9295897,
+    "lon": 22.7116649,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Racibory",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.776388,
+    "lon": 19.700042,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Koniecpol",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.8088286,
+    "lon": 20.4036807,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Olsztyn Gutkowo",
+    "name:pl": "Olsztyn Gutkowo",
+    "train": null
+  },
+  {
+    "lat": 53.8007219,
+    "lon": 17.970593,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czersk",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.10473,
+    "lon": 19.9556222,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Łódzka Kolej Aglomeracyjna;PKP Intercity",
+    "network:short": "KM;ŁKA;IC",
+    "name": "Łowicz Główny",
+    "name:pl": "Łowicz Główny",
+    "train": null
+  },
+  {
+    "lat": 52.808842,
+    "lon": 16.1766634,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Miały",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.5263559,
+    "lon": 16.5054444,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP PLK S.A.",
+    "network:short": null,
+    "name": "Ścinawka Średnia",
+    "name:pl": "Ścinawka Średnia",
+    "train": "yes"
+  },
+  {
+    "lat": 53.977148,
+    "lon": 18.5257736,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Starogard Gdański",
+    "name:pl": "Starogard Gdański",
+    "train": null
+  },
+  {
+    "lat": 53.942726,
+    "lon": 18.3053339,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zblewo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.05334,
+    "lon": 19.2056865,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Stare Pole",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.8179312,
+    "lon": 19.8860058,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Rogów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.0181184,
+    "lon": 20.16906,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Podłęże",
+    "name:pl": "Podłęże",
+    "train": null
+  },
+  {
+    "lat": 53.6481538,
+    "lon": 23.3649767,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dąbrowa Białostocka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6322479,
+    "lon": 20.7646162,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Pasym",
+    "name:pl": "Pasym",
+    "train": null
+  },
+  {
+    "lat": 53.0684825,
+    "lon": 18.6938551,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Papowo Toruńskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.0972478,
+    "lon": 18.7897812,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Tczew",
+    "name:pl": "Tczew",
+    "train": "yes"
+  },
+  {
+    "lat": 52.4668217,
+    "lon": 17.1685791,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Biskupice Wielkopolskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.2744103,
+    "lon": 19.5704293,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Olkusz",
+    "name:pl": "Olkusz",
+    "train": null
+  },
+  {
+    "lat": 51.150452,
+    "lon": 17.1185445,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Psie Pole",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.6977778,
+    "lon": 17.376277,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grodków Śląski",
+    "name:pl": "Grodków Śląski",
+    "train": null
+  },
+  {
+    "lat": 51.2300777,
+    "lon": 17.3689153,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dąbrowa Oleśnicka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.1746028,
+    "lon": 18.7016608,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pszczółki",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.2150468,
+    "lon": 20.2386642,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sochaczew",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.5278737,
+    "lon": 16.0187029,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Złocieniec",
+    "name:pl": "Złocieniec",
+    "train": null
+  },
+  {
+    "lat": 52.2074469,
+    "lon": 20.7958122,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie",
+    "network:short": "KM",
+    "name": "Ożarów Mazowiecki",
+    "name:pl": "Ożarów Mazowiecki",
+    "train": null
+  },
+  {
+    "lat": 50.551154,
+    "lon": 18.1242016,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Otmice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.998328,
+    "lon": 16.9653502,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Miastko",
+    "name:pl": "Miastko",
+    "train": null
+  },
+  {
+    "lat": 54.0719497,
+    "lon": 16.8838922,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kawcze",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.2414832,
+    "lon": 16.8906778,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kępice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.9127123,
+    "lon": 18.6926443,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Otłoczyn",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.0484407,
+    "lon": 19.9569831,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Kraków Zabłocie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.7939015,
+    "lon": 16.31669,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wschowa",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.7264089,
+    "lon": 19.4841953,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Łódź Chojny",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6441717,
+    "lon": 17.693352,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Silno",
+    "name:pl": "Silno",
+    "train": null
+  },
+  {
+    "lat": 53.5835933,
+    "lon": 17.8606117,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Tuchola",
+    "name:pl": "Tuchola",
+    "train": null
+  },
+  {
+    "lat": 50.7164289,
+    "lon": 17.9031749,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Opole Czarnowąsy",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.037022,
+    "lon": 17.3454105,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jelcz-Laskowice",
+    "name:pl": "Jelcz-Laskowice",
+    "train": "yes"
+  },
+  {
+    "lat": 50.9561237,
+    "lon": 18.3145752,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bąków",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.7563138,
+    "lon": 18.629458,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ciasna",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.798823,
+    "lon": 18.5936025,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sieraków Śląski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.845887,
+    "lon": 18.5016873,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sowczyce",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.9155315,
+    "lon": 18.3749548,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Stare Olesno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6699343,
+    "lon": 18.2102647,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ozimek",
+    "name:pl": "Ozimek",
+    "train": null
+  },
+  {
+    "lat": 51.6037433,
+    "lon": 19.1117876,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łask",
+    "name:pl": "Łask",
+    "train": null
+  },
+  {
+    "lat": 54.59495,
+    "lon": 18.353264,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Reda",
+    "name:pl": "Reda",
+    "train": null
+  },
+  {
+    "lat": 51.1700195,
+    "lon": 16.9031293,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Pracze",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1280409,
+    "lon": 16.9522088,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrocław Kuźniki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.8324597,
+    "lon": 16.4197665,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grzmiąca",
+    "name:pl": "Grzmiąca",
+    "train": "yes"
+  },
+  {
+    "lat": 50.2886411,
+    "lon": 19.2315955,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sosnowiec Kazimierz",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.2949248,
+    "lon": 19.3746476,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sławków",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.7135245,
+    "lon": 18.0360342,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kołodziejewo",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.2463323,
+    "lon": 19.2975531,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jaworzno Szczakowa",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1882562,
+    "lon": 16.7396367,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Miękinia",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.1001423,
+    "lon": 18.7356201,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Turzno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.1636078,
+    "lon": 18.8686006,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Kowalewo Pomorskie",
+    "name:pl": "Kowalewo Pomorskie",
+    "train": "yes"
+  },
+  {
+    "lat": 52.5339648,
+    "lon": 21.6875326,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Łochów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.6994982,
+    "lon": 15.262029,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gorzów Wielkopolski Zieleniec",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.5937036,
+    "lon": 18.3471626,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Osie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7159984,
+    "lon": 23.1253606,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Zawada",
+    "name:pl": "Zawada",
+    "train": null
+  },
+  {
+    "lat": 50.1307695,
+    "lon": 19.6361612,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krzeszowice",
+    "name:pl": "Krzeszowice",
+    "train": null
+  },
+  {
+    "lat": 50.0075192,
+    "lon": 20.8727561,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bogumiłowice",
+    "name:pl": "Bogumiłowice",
+    "train": null
+  },
+  {
+    "lat": 50.0017237,
+    "lon": 20.3013956,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kłaj",
+    "name:pl": "Kłaj",
+    "train": null
+  },
+  {
+    "lat": 53.6994604,
+    "lon": 19.9497112,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Ostróda",
+    "name:pl": "Ostróda",
+    "train": null
+  },
+  {
+    "lat": 50.1332834,
+    "lon": 19.3982012,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chrzanów",
+    "name:pl": "Chrzanów",
+    "train": null
+  },
+  {
+    "lat": 50.8965978,
+    "lon": 18.7485906,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Panki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2151482,
+    "lon": 16.3506934,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szczedrzykowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.5112827,
+    "lon": 20.355646,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Waplewo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.3264585,
+    "lon": 18.4130319,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Stara Piła",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.9190188,
+    "lon": 19.9228513,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Morąg",
+    "name:pl": "Morąg",
+    "train": null
+  },
+  {
+    "lat": 53.2636743,
+    "lon": 19.4059191,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Brodnica",
+    "name:pl": "Brodnica",
+    "train": null
+  },
+  {
+    "lat": 51.6447811,
+    "lon": 16.1335897,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krzepów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.3033648,
+    "lon": 19.3112813,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dąbrowa Górnicza Wschodnia",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6092497,
+    "lon": 16.839439,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rawicz",
+    "name:pl": "Rawicz",
+    "train": null
+  },
+  {
+    "lat": 51.7590071,
+    "lon": 16.9715117,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krobia",
+    "name:pl": "Krobia",
+    "train": null
+  },
+  {
+    "lat": 51.7370622,
+    "lon": 17.1127142,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pępowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.4217936,
+    "lon": 18.1264542,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zdzieszowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9175621,
+    "lon": 20.0034335,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Płyćwia",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4829988,
+    "lon": 21.556545,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Żytkowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.1131465,
+    "lon": 19.3261825,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Libiąż",
+    "name:pl": "Libiąż",
+    "train": "yes"
+  },
+  {
+    "lat": 51.4296617,
+    "lon": 21.3276432,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jedlnia-Letnisko",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.5420504,
+    "lon": 21.8172588,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Zajezierze koło Dęblina",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.5178254,
+    "lon": 21.7254976,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie",
+    "network:short": "KM",
+    "name": "Bąkowiec",
+    "name:pl": "Bąkowiec",
+    "train": "yes"
+  },
+  {
+    "lat": 54.0314031,
+    "lon": 21.7777295,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Giżycko",
+    "name:pl": "Giżycko",
+    "train": null
+  },
+  {
+    "lat": 53.198325,
+    "lon": 23.1770421,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wasilków",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.8558723,
+    "lon": 18.1994668,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jaksice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2709572,
+    "lon": 15.7785663,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Okmiany",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.0977604,
+    "lon": 17.1242787,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Białośliwie",
+    "name:pl": "Białośliwie",
+    "train": null
+  },
+  {
+    "lat": 53.631818,
+    "lon": 21.7947581,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pisz",
+    "name:pl": "Pisz",
+    "train": null
+  },
+  {
+    "lat": 53.5602225,
+    "lon": 20.9968148,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Polregio;PKP Intercity",
+    "network:short": "KM;PR;IC",
+    "name": "Szczytno",
+    "name:pl": "Szczytno",
+    "train": "yes"
+  },
+  {
+    "lat": 53.650103,
+    "lon": 22.448183,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grajewo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.4513332,
+    "lon": 16.6567711,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kłodzko Główne",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.4345956,
+    "lon": 16.658236,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kłodzko Miasto",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.7789108,
+    "lon": 20.1049059,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Raciąż",
+    "name:pl": "Raciąż",
+    "train": null
+  },
+  {
+    "lat": 51.4104653,
+    "lon": 19.6846413,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Piotrków Trybunalski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.4869372,
+    "lon": 20.9664688,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Polregio",
+    "network:short": "KM;PR",
+    "name": "Szymany",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.2214247,
+    "lon": 22.4235028,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Motycz",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.4022547,
+    "lon": 22.7968231,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mońki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.401063,
+    "lon": 15.1766348,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ruszów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.1168951,
+    "lon": 21.2359043,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Tołkiny",
+    "name:pl": "Tołkiny",
+    "train": null
+  },
+  {
+    "lat": 51.0559123,
+    "lon": 18.6055648,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Janinów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.9243063,
+    "lon": 19.0211281,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sztum",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.8544808,
+    "lon": 15.6780874,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Stare Kurowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.7934051,
+    "lon": 15.4887891,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Górki Noteckie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.7430366,
+    "lon": 15.415267,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Santok",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.8364969,
+    "lon": 15.5837747,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zwierzyn",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.9691339,
+    "lon": 18.6971161,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krzepice",
+    "name:pl": "Krzepice",
+    "train": null
+  },
+  {
+    "lat": 50.8820722,
+    "lon": 18.4248341,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Olesno Śląskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7410347,
+    "lon": 19.6171505,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łódź Andrzejów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3777549,
+    "lon": 20.6597222,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Przysucha",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.3579867,
+    "lon": 18.5078476,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Taciszów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3466298,
+    "lon": 21.2380648,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Wołomin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.375873,
+    "lon": 19.7725255,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wolbrom",
+    "name:pl": "Wolbrom",
+    "train": null
+  },
+  {
+    "lat": 50.6807584,
+    "lon": 18.5665815,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pawonków",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6646881,
+    "lon": 18.4686582,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pludry",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6606642,
+    "lon": 18.0751705,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chrząstowice / Chronstau",
+    "name:pl": "Chrząstowice",
+    "train": null
+  },
+  {
+    "lat": 53.5039613,
+    "lon": 18.6295025,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grupa",
+    "name:pl": "Grupa",
+    "train": null
+  },
+  {
+    "lat": 51.2471851,
+    "lon": 16.9271182,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pęgów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.8743077,
+    "lon": 20.6179325,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Kielce Główne",
+    "name:pl": "Kielce Główne",
+    "train": "yes"
+  },
+  {
+    "lat": 53.4006527,
+    "lon": 20.9530057,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Polregio",
+    "network:short": "KM;PR",
+    "name": "Wielbark",
+    "name:pl": "Wielbark",
+    "train": null
+  },
+  {
+    "lat": 54.5216208,
+    "lon": 18.5274712,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gdynia Główna",
+    "name:pl": "Gdynia Główna",
+    "train": null
+  },
+  {
+    "lat": 51.757822,
+    "lon": 19.4305417,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Łódzka Kolej Aglomeracyjna;Polregio",
+    "network:short": "IC;ŁKA;PR",
+    "name": "Łódź Kaliska",
+    "name:pl": "Łódź Kaliska",
+    "train": null
+  },
+  {
+    "lat": 50.7939653,
+    "lon": 18.0467055,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jełowa",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9734724,
+    "lon": 21.104208,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie",
+    "network:short": "KM",
+    "name": "Czachówek Wschodni",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.8480097,
+    "lon": 19.6531311,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Arriva;Koleje Mazowieckie;PKP Intercity",
+    "network:short": "AR;KM;IC",
+    "name": "Sierpc",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.5887174,
+    "lon": 19.7338325,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Płock Trzepowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.5527316,
+    "lon": 19.7126913,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Płock",
+    "name:pl": "Płock",
+    "train": null
+  },
+  {
+    "lat": 53.0438406,
+    "lon": 21.9905809,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": null,
+    "name": "Śniadowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.60506,
+    "lon": 18.1610766,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gościcino Wejherowskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.5628928,
+    "lon": 18.028786,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Strzebielino Morskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.581917,
+    "lon": 17.8632338,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Godętowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.6776662,
+    "lon": 17.6680739,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wrzeście",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 54.5039354,
+    "lon": 17.6419604,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pogorzelice",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 54.4849487,
+    "lon": 17.4880857,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Potęgowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.4976028,
+    "lon": 17.2732956,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Damnica",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.5042883,
+    "lon": 17.1218427,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jezierzyce Słupskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.8925872,
+    "lon": 17.7322175,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pleszew",
+    "name:pl": "Pleszew",
+    "train": null
+  },
+  {
+    "lat": 52.569871,
+    "lon": 17.8178353,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Trzemeszno",
+    "name:pl": "Trzemeszno",
+    "train": null
+  },
+  {
+    "lat": 52.6110482,
+    "lon": 17.9038241,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wydartowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.9036425,
+    "lon": 18.1473261,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Złotniki Kujawskie",
+    "name:pl": "Złotniki Kujawskie",
+    "train": null
+  },
+  {
+    "lat": 53.2843906,
+    "lon": 18.1208811,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kotomierz",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2555649,
+    "lon": 16.0546142,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Miłkowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2705063,
+    "lon": 17.3637981,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dobroszyce",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.34322,
+    "lon": 17.403474,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grabowno Wielkie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3881714,
+    "lon": 17.5832169,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bukowina Sycowska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4715395,
+    "lon": 17.6394539,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sośnie Ostrowskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.5116753,
+    "lon": 17.6451794,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Granowiec",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.738947,
+    "lon": 17.7924013,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Biniew",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7944961,
+    "lon": 17.7743076,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bronów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9146047,
+    "lon": 17.6489564,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kotlin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6464157,
+    "lon": 17.3662662,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zduny",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3995076,
+    "lon": 17.368541,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bukowice Trzebnickie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.0052884,
+    "lon": 20.9751174,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Tarnów",
+    "name:pl": "Tarnów",
+    "train": null
+  },
+  {
+    "lat": 54.7148824,
+    "lon": 18.4086265,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Puck",
+    "name:pl": "Puck",
+    "train": null
+  },
+  {
+    "lat": 51.4369856,
+    "lon": 20.4656999,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Drzewica",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7267573,
+    "lon": 15.8198902,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bytom Odrzański",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.4751827,
+    "lon": 20.0123505,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kozłów",
+    "name:pl": "Kozłów",
+    "train": null
+  },
+  {
+    "lat": 52.1696272,
+    "lon": 20.9752099,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Warszawa Lotnisko Chopina",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.7276526,
+    "lon": 15.2286373,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gorzów Wielkopolski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6037635,
+    "lon": 15.3154215,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Żagań",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.6781517,
+    "lon": 14.5704471,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Namyślin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6194857,
+    "lon": 16.4817911,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP PLK S.A.",
+    "network:short": null,
+    "name": "Ludwikowice Kłodzkie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.7115424,
+    "lon": 16.3430171,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jedlina-Zdrój",
+    "name:pl": "Jedlina Zdrój",
+    "train": "yes"
+  },
+  {
+    "lat": 50.2655094,
+    "lon": 19.1727723,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sosnowiec Dańdówka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6344652,
+    "lon": 15.1377011,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Żary",
+    "name:pl": "Żary",
+    "train": null
+  },
+  {
+    "lat": 54.0723561,
+    "lon": 21.387517,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Kętrzyn",
+    "name:pl": "Kętrzyn",
+    "train": null
+  },
+  {
+    "lat": 51.6310381,
+    "lon": 21.1763521,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dobieszyn",
+    "name:pl": "Dobieszyn",
+    "train": "yes"
+  },
+  {
+    "lat": 51.1277582,
+    "lon": 15.0609584,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jerzmanki",
+    "name:pl": "Jerzmanki",
+    "train": null
+  },
+  {
+    "lat": 51.3354313,
+    "lon": 15.8932471,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rokitki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4668793,
+    "lon": 15.616048,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Leszno Górne",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2197167,
+    "lon": 16.8368026,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Brzezinka Średzka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7581502,
+    "lon": 17.6153236,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lewin Brzeski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6915759,
+    "lon": 17.753867,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dąbrowa Niemodlińska",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.6167705,
+    "lon": 17.3782591,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chróścina Nyska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.3776729,
+    "lon": 17.3695627,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nowy Świętów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.5292143,
+    "lon": 18.0033261,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Górażdże",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.5815585,
+    "lon": 17.9890882,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Przywory Opolskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4091111,
+    "lon": 16.4218147,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ścinawa",
+    "name:pl": "Ścinawa",
+    "train": null
+  },
+  {
+    "lat": 51.4560519,
+    "lon": 16.359486,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chełmek Wołowski",
+    "name:pl": "Chełmek Wołowski",
+    "train": null
+  },
+  {
+    "lat": 51.5934999,
+    "lon": 16.1848672,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grębocice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6865915,
+    "lon": 15.9543821,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Głogów Wróblin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7022546,
+    "lon": 15.8845835,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czerna",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.8654189,
+    "lon": 15.6643675,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Niedoradz",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6715916,
+    "lon": 14.8380258,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Tuplice",
+    "name:pl": "Tuplice",
+    "train": null
+  },
+  {
+    "lat": 51.8578208,
+    "lon": 16.6866339,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kąkolewo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3973183,
+    "lon": 14.7598155,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kowalów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.7364987,
+    "lon": 14.5189402,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Boleszkowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.7817383,
+    "lon": 14.4858725,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mieszkowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.0328432,
+    "lon": 16.4650023,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Trzcianka",
+    "name:pl": "Trzcianka",
+    "train": "yes"
+  },
+  {
+    "lat": 52.9571088,
+    "lon": 16.3428227,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Biernatowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.9073765,
+    "lon": 16.1799496,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wieleń",
+    "name:pl": "Wieleń",
+    "train": null
+  },
+  {
+    "lat": 53.1277832,
+    "lon": 17.4347438,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Samostrzel",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.1425732,
+    "lon": 17.6071952,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nakło nad Notecią",
+    "name:pl": "Nakło nad Notecią",
+    "train": null
+  },
+  {
+    "lat": 53.1510025,
+    "lon": 17.8079881,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zielonczyn",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.2890825,
+    "lon": 16.9915365,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krajenka",
+    "name:pl": "Krajenka",
+    "train": null
+  },
+  {
+    "lat": 53.6178993,
+    "lon": 17.4472969,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wierzchowo Człuchowskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.7482309,
+    "lon": 17.7251246,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rytel",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.9026339,
+    "lon": 18.2153931,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kaliska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.7628915,
+    "lon": 18.1197385,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szlachta",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.7539307,
+    "lon": 18.1088728,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lipowa Tucholska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.7129523,
+    "lon": 18.182216,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Śliwice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.0727108,
+    "lon": 18.9275111,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szymankowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.8449437,
+    "lon": 20.1385158,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Gamerki Wielkie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 54.1149846,
+    "lon": 20.1507532,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Orneta",
+    "name:pl": "Orneta",
+    "train": null
+  },
+  {
+    "lat": 53.9831072,
+    "lon": 20.3852347,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dobre Miasto",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.7462262,
+    "lon": 20.3766091,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Naterki",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.720093,
+    "lon": 20.1926965,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Biesal",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6718417,
+    "lon": 19.8207355,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Samborowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6385641,
+    "lon": 19.6694883,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Rudzienice Suskie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.5290677,
+    "lon": 19.5016713,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Jamielnik",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.4331241,
+    "lon": 19.2672606,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Ostrowite koło Jabłonowa",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.0782444,
+    "lon": 18.2258941,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Solec Kujawski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6710769,
+    "lon": 19.4081588,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Redaki",
+    "name:pl": "Redaki",
+    "train": null
+  },
+  {
+    "lat": 53.5913612,
+    "lon": 18.933391,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Gardeja",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.8422325,
+    "lon": 18.9566128,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Ryjewo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.5242451,
+    "lon": 19.6722573,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Płock Radziwie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.4870282,
+    "lon": 19.5960518,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łąck",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3707152,
+    "lon": 19.4205021,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sierakówek",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3229173,
+    "lon": 19.3687984,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Strzelce Kujawskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.6160133,
+    "lon": 20.3661208,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Płońsk",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.3087765,
+    "lon": 20.3111682,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Kozłowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.0157843,
+    "lon": 21.5821207,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Sterławki Wielkie",
+    "name:pl": "Sterławki Wielkie",
+    "train": null
+  },
+  {
+    "lat": 53.9762682,
+    "lon": 22.033529,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Wydminy",
+    "name:pl": "Wydminy",
+    "train": null
+  },
+  {
+    "lat": 53.9251916,
+    "lon": 22.1683258,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Stare Juchy",
+    "name:pl": "Stare Juchy",
+    "train": null
+  },
+  {
+    "lat": 53.5909767,
+    "lon": 21.354319,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Spychowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.0244189,
+    "lon": 23.1827257,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Krasnystaw Fabryczny",
+    "name:pl": "Krasnystaw Fabryczny",
+    "train": null
+  },
+  {
+    "lat": 51.117695,
+    "lon": 23.2383437,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PR;IC",
+    "network:short": null,
+    "name": "Rejowiec",
+    "name:pl": "Rejowiec",
+    "train": null
+  },
+  {
+    "lat": 51.0419091,
+    "lon": 21.0787913,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Starachowice Wschodnie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.3532948,
+    "lon": 21.0001743,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Wolanów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6951398,
+    "lon": 22.4317785,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Prostki",
+    "name:pl": "Prostki",
+    "train": null
+  },
+  {
+    "lat": 53.2846326,
+    "lon": 22.8960757,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Knyszyn",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.5446006,
+    "lon": 23.447549,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sidra",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.7458283,
+    "lon": 23.198254,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jastrzębna",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2479134,
+    "lon": 23.6011101,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ruda-Opalin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3195,
+    "lon": 23.6193023,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Uhrusk",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.0003323,
+    "lon": 20.2904767,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie",
+    "network:short": "KM",
+    "name": "Radziwiłłów Mazowiecki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2406542,
+    "lon": 21.2986542,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Sulejówek Miłosna",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.1762749,
+    "lon": 22.0678332,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kotuń",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.3907594,
+    "lon": 22.9447052,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Siemiatycze",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.4600632,
+    "lon": 23.082982,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Nurzec",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.5187507,
+    "lon": 23.3535138,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Czeremcha",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.6624924,
+    "lon": 23.2416068,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Gregorowce",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.9017166,
+    "lon": 23.1132916,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Strabla",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.027882,
+    "lon": 23.1248166,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lewickie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.1620483,
+    "lon": 21.2106772,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Szybka Kolej Miejska",
+    "network:short": "KM;SKM",
+    "name": "Warszawa Falenica",
+    "name:pl": "Warszawa Falenica",
+    "train": "yes"
+  },
+  {
+    "lat": 51.9979351,
+    "lon": 22.9571939,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Sokule",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.2943546,
+    "lon": 18.2561042,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bierawa",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.3666307,
+    "lon": 18.4042187,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rudziniec Gliwicki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.5720426,
+    "lon": 18.0778285,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Tarnów Opolski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.528326,
+    "lon": 18.224141,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szymiszów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.5167095,
+    "lon": 18.3066089,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Strzelce Opolskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6604518,
+    "lon": 18.3601524,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Fosowskie",
+    "name:pl": "Fosowskie",
+    "train": "yes"
+  },
+  {
+    "lat": 50.6653812,
+    "lon": 18.9014251,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Boronów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.160517,
+    "lon": 18.6336919,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pątnów Wieluński",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7080628,
+    "lon": 17.9979123,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nowe Skalmierzyce",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7232566,
+    "lon": 18.3500285,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Radliczyce",
+    "name:pl": "Radliczyce",
+    "train": "yes"
+  },
+  {
+    "lat": 51.673683,
+    "lon": 18.471086,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Błaszki",
+    "name:pl": "Błaszki",
+    "train": null
+  },
+  {
+    "lat": 51.7438515,
+    "lon": 19.8186183,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Koluszki",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.5369264,
+    "lon": 19.7167575,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Baby",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1635621,
+    "lon": 19.4867937,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gomunice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.9810384,
+    "lon": 19.367218,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Widzów Teklinów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.4300849,
+    "lon": 19.3918857,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łazy",
+    "name:pl": "Łazy",
+    "train": "yes"
+  },
+  {
+    "lat": 50.4335931,
+    "lon": 19.9912442,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Tunel",
+    "name:pl": "Tunel",
+    "train": null
+  },
+  {
+    "lat": 50.3961292,
+    "lon": 19.9413863,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Charsznica",
+    "name:pl": "Charsznica",
+    "train": null
+  },
+  {
+    "lat": 50.3422847,
+    "lon": 19.6218089,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jaroszowiec Olkuski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4934985,
+    "lon": 20.1466954,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Brzustów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7226079,
+    "lon": 19.8386994,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Łódzka Kolej Aglomeracyjna;Polregio",
+    "network:short": "ŁKA;PR",
+    "name": "Słotwiny",
+    "name:pl": "Słotwiny",
+    "train": null
+  },
+  {
+    "lat": 50.7683869,
+    "lon": 19.3171916,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Turów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7646466,
+    "lon": 19.4732727,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Julianka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 49.9867628,
+    "lon": 20.6093415,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Brzesko Okocim",
+    "name:pl": "Brzesko Okocim",
+    "train": null
+  },
+  {
+    "lat": 50.0064054,
+    "lon": 20.9239433,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Tarnów Mościce",
+    "name:pl": "Tarnów Mościce",
+    "train": null
+  },
+  {
+    "lat": 51.6477105,
+    "lon": 21.7603993,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Życzyn",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7416616,
+    "lon": 21.6724904,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sobolew",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.924509,
+    "lon": 22.3598062,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Łuków Łapiguz",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4104568,
+    "lon": 22.0114222,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Puławy",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3627122,
+    "lon": 22.1101676,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Klementowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3180443,
+    "lon": 22.2131809,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nałęczów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.9217423,
+    "lon": 20.615332,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kostomłoty",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.8552608,
+    "lon": 20.5745188,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kielce Białogon",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.4288076,
+    "lon": 21.7431315,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dęba Rozalin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.9678633,
+    "lon": 21.2953476,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kunów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.2572998,
+    "lon": 19.0574498,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Katowice Zawodzie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.2388575,
+    "lon": 20.1673188,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio;Koleje Mazowieckie",
+    "network:short": "IC;PR;KM",
+    "name": "Działdowo",
+    "name:pl": "Działdowo",
+    "train": null
+  },
+  {
+    "lat": 50.0906046,
+    "lon": 18.2267128,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Racibórz",
+    "name:pl": "Racibórz",
+    "train": "yes"
+  },
+  {
+    "lat": 50.3535965,
+    "lon": 20.0107404,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Miechów",
+    "name:pl": "Miechów",
+    "train": null
+  },
+  {
+    "lat": 50.1237784,
+    "lon": 20.0690701,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zastów",
+    "name:pl": "Zastów",
+    "train": null
+  },
+  {
+    "lat": 50.6744569,
+    "lon": 17.9343091,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Opole Wschodnie",
+    "name:pl": "Opole Wschodnie",
+    "train": "yes"
+  },
+  {
+    "lat": 52.748872,
+    "lon": 18.1160506,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Janikowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.24943,
+    "lon": 20.063701,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Słomniki",
+    "name:pl": "Słomniki",
+    "train": "yes"
+  },
+  {
+    "lat": 50.7738933,
+    "lon": 18.9695889,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Blachownia",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.1112994,
+    "lon": 21.4923542,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kochanówka Pustków",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.3062847,
+    "lon": 14.5290783,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Daleszewo",
+    "name:pl": "Daleszewo",
+    "train": null
+  },
+  {
+    "lat": 51.2452131,
+    "lon": 15.0468919,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pieńsk",
+    "name:pl": "Pieńsk",
+    "train": null
+  },
+  {
+    "lat": 53.4133077,
+    "lon": 14.5658023,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szczecin Port Centralny",
+    "name:pl": "Szczecin Port Centralny",
+    "train": null
+  },
+  {
+    "lat": 53.8867152,
+    "lon": 16.8553835,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Biały Bór",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6316632,
+    "lon": 17.8213941,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Komprachcice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7200566,
+    "lon": 17.2238694,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kobylin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.4311161,
+    "lon": 21.4354004,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Tłuszcz",
+    "name:pl": "Tłuszcz",
+    "train": "yes"
+  },
+  {
+    "lat": 52.1095585,
+    "lon": 21.2630951,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Szybka Kolej Miejska;PKP Intercity",
+    "network:short": "KM;SKM;IC",
+    "name": "Otwock",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.7613758,
+    "lon": 23.1881475,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Bielsk Podlaski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9582318,
+    "lon": 21.0815732,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czachówek Południowy",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.9027315,
+    "lon": 21.1006911,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chynów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.7938528,
+    "lon": 21.1686656,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Warka",
+    "name:pl": "Warka",
+    "train": "yes"
+  },
+  {
+    "lat": 52.0576501,
+    "lon": 21.3940884,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie",
+    "network:short": "KM",
+    "name": "Celestynów",
+    "name:pl": "Celestynów",
+    "train": "yes"
+  },
+  {
+    "lat": 52.5728113,
+    "lon": 20.7680833,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Nasielsk",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.1055389,
+    "lon": 20.064785,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie",
+    "network:short": "KM",
+    "name": "Bednary",
+    "name:pl": "Bednary",
+    "train": "yes"
+  },
+  {
+    "lat": 50.4784247,
+    "lon": 17.0110551,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Paczków",
+    "name:pl": "Paczków",
+    "train": null
+  },
+  {
+    "lat": 51.3339266,
+    "lon": 16.6328844,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wołów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7298223,
+    "lon": 19.7318181,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Gałkówek",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.5520558,
+    "lon": 20.1352516,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Łódzka Kolej Aglomeracyjna",
+    "network:short": "ŁKA",
+    "name": "Spała",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.2140928,
+    "lon": 16.1696549,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Legnica",
+    "name:pl": "Legnica",
+    "train": "yes"
+  },
+  {
+    "lat": 51.7301436,
+    "lon": 19.7861951,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Łódzka Kolej Aglomeracyjna",
+    "network:short": "ŁKA",
+    "name": "Żakowice Południowe",
+    "name:pl": "Żakowice Południowe",
+    "train": "yes"
+  },
+  {
+    "lat": 50.0134497,
+    "lon": 19.3688911,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Przeciszów",
+    "name:pl": "Przeciszów",
+    "train": null
+  },
+  {
+    "lat": 51.1104398,
+    "lon": 20.7572886,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bliżyn",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.1433022,
+    "lon": 20.5748637,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Stąporków",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.5457503,
+    "lon": 18.4636617,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gdynia Chylonia",
+    "name:pl": "Gdynia Chylonia",
+    "train": "yes"
+  },
+  {
+    "lat": 51.6675458,
+    "lon": 19.780676,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rokiciny",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.5890163,
+    "lon": 18.9947256,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zduńska Wola Karsznice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.1473563,
+    "lon": 21.9596092,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Głogów Małopolski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.0154355,
+    "lon": 14.939793,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Verkehrsverbund Oberlausitz-Niederschlesien",
+    "network:short": "ZVON",
+    "name": "Krzewina Zgorzelecka",
+    "name:pl": "Krzewina Zgorzelecka",
+    "train": "yes"
+  },
+  {
+    "lat": 52.3439907,
+    "lon": 15.7544232,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lutol Suchy",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2426128,
+    "lon": 15.8181758,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zbąszynek",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.105427,
+    "lon": 16.8816474,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kaczory",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.7693872,
+    "lon": 18.2431612,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Inowrocław Rąbinek",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.031941,
+    "lon": 15.0936665,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krosno Odrzańskie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.4157092,
+    "lon": 20.8847443,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chotomów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.5106432,
+    "lon": 16.7561574,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rokietnica",
+    "name:pl": "Rokietnica",
+    "train": null
+  },
+  {
+    "lat": 51.1401724,
+    "lon": 15.0030407,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Dolnośląskie;Polregio",
+    "network:short": "KD;PR",
+    "name": "Zgorzelec",
+    "name:pl": "Zgorzelec",
+    "train": null
+  },
+  {
+    "lat": 50.9916624,
+    "lon": 20.7984417,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łączna",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1715012,
+    "lon": 22.5028874,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Lublin Zemborzyce",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.301159,
+    "lon": 18.6770397,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gliwice",
+    "name:pl": "Gliwice",
+    "train": "yes"
+  },
+  {
+    "lat": 50.3052986,
+    "lon": 18.7871281,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zabrze",
+    "name:pl": "Zabrze",
+    "train": "yes"
+  },
+  {
+    "lat": 54.1822496,
+    "lon": 15.5715496,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Kołobrzeg",
+    "name:pl": "Kołobrzeg",
+    "train": "yes"
+  },
+  {
+    "lat": 50.8529011,
+    "lon": 17.4708931,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Brzeg",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.4766459,
+    "lon": 18.5486299,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gdynia Orłowo",
+    "name:pl": "Gdynia Orłowo",
+    "train": "yes"
+  },
+  {
+    "lat": 53.8527155,
+    "lon": 23.025974,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Augustów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.1058152,
+    "lon": 22.9453382,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Suwałki",
+    "name:pl": "Suwałki",
+    "train": null
+  },
+  {
+    "lat": 51.3591831,
+    "lon": 20.2324376,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Opoczno Południe",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.6345402,
+    "lon": 21.9213683,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zbydniów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9683099,
+    "lon": 17.4947192,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jarocin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7476646,
+    "lon": 18.8821298,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Herby Stare",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.7472918,
+    "lon": 18.8545491,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Herby Nowe",
+    "name:pl": "Herby Nowe",
+    "train": null
+  },
+  {
+    "lat": 51.2099736,
+    "lon": 18.9412746,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chorzew Siemkowice",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.8782089,
+    "lon": 19.2322503,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rudniki koło Częstochowy",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2057559,
+    "lon": 20.9411445,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Warszawa Aleje Jerozolimskie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.2576071,
+    "lon": 19.0171456,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Katowice",
+    "name:pl": "Katowice",
+    "train": "yes"
+  },
+  {
+    "lat": 52.304122,
+    "lon": 16.1330385,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nowy Tomyśl",
+    "name:pl": "Nowy Tomyśl",
+    "train": null
+  },
+  {
+    "lat": 52.2813762,
+    "lon": 15.991727,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chrośnica",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.2594116,
+    "lon": 15.8947648,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zbąszyń",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2601274,
+    "lon": 15.2605608,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Toporów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3499173,
+    "lon": 14.8152866,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rzepin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3417943,
+    "lon": 14.6384453,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kunowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.3118146,
+    "lon": 21.1576638,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Zielonka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.6946017,
+    "lon": 22.0348575,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Małkinia",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.7997433,
+    "lon": 22.3421671,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czyżew",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.8702564,
+    "lon": 22.5414659,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szepietowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.9899169,
+    "lon": 22.8835129,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łapy",
+    "name:pl": "Łapy",
+    "train": null
+  },
+  {
+    "lat": 53.0465826,
+    "lon": 22.982717,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Baciuty",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.1336211,
+    "lon": 23.1354375,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Białystok",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.2484326,
+    "lon": 23.2091389,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czarny Blok",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.3057028,
+    "lon": 23.2797591,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czarna Białostocka",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.33172,
+    "lon": 23.3181155,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Machnacz",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.4031557,
+    "lon": 23.5066903,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sokółka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.278276,
+    "lon": 18.9449635,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chorzów Batory",
+    "name:pl": "Chorzów Batory",
+    "train": null
+  },
+  {
+    "lat": 51.360263,
+    "lon": 17.4677429,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Twardogóra",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7935514,
+    "lon": 19.4070192,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Łódź Żabieniec",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.8832303,
+    "lon": 20.5256847,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szczukowskie Górki",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.6696063,
+    "lon": 16.0798664,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Głogów",
+    "name:pl": "Głogów",
+    "train": null
+  },
+  {
+    "lat": 50.240007,
+    "lon": 21.4954083,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rzochów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.6616475,
+    "lon": 17.9272072,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Opole Główne",
+    "name:pl": "Opole Główne",
+    "train": null
+  },
+  {
+    "lat": 52.2201572,
+    "lon": 20.9651719,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "KM;SKM;PR;ŁKA;IC",
+    "network:short": null,
+    "name": "Warszawa Zachodnia",
+    "name:pl": "Warszawa Zachodnia",
+    "train": "yes"
+  },
+  {
+    "lat": 52.2084041,
+    "lon": 20.8640568,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Warszawa Gołąbki",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.2571084,
+    "lon": 21.158478,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Warszawa Rembertów",
+    "name:pl": "Warszawa Rembertów",
+    "train": null
+  },
+  {
+    "lat": 50.4083659,
+    "lon": 16.4497865,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP PLK S.A.",
+    "network:short": null,
+    "name": "Szczytna",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.1657359,
+    "lon": 20.9873566,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Warszawa Okęcie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.0665292,
+    "lon": 21.0172915,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Piaseczno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.0465577,
+    "lon": 20.8496965,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Suchedniów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2590955,
+    "lon": 20.9923588,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Warszawa Gdańska",
+    "name:pl": "Warszawa Gdańska",
+    "train": "yes"
+  },
+  {
+    "lat": 52.4126078,
+    "lon": 20.9427123,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Legionowo Piaski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.4281967,
+    "lon": 20.9747536,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Wieliszew",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7766962,
+    "lon": 16.1957047,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Stare Drzewce",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.735143,
+    "lon": 16.0954798,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Głogówko",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.8648041,
+    "lon": 19.340321,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Zgierz Kontrewers",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.1352905,
+    "lon": 17.991601,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bydgoszcz Główna",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2775107,
+    "lon": 21.0223526,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Warszawa Praga",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.0432134,
+    "lon": 22.0058076,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rzeszów Główny",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.6021945,
+    "lon": 19.9669659,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Skrzynki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.5020459,
+    "lon": 20.0729897,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jeleń",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4553655,
+    "lon": 20.1149966,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bratków",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1902037,
+    "lon": 20.422849,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Końskie",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.0797066,
+    "lon": 21.0163501,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wąchock",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.9329872,
+    "lon": 21.3796571,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ostrowiec Świętokrzyski",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.4948043,
+    "lon": 21.6300605,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Garbatka-Letnisko",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.479776,
+    "lon": 21.462028,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pionki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3909217,
+    "lon": 21.1553821,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Radom Główny",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.9926109,
+    "lon": 21.6039595,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gierwaty",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.0561608,
+    "lon": 21.6171129,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Polregio",
+    "network:short": "KM;PR",
+    "name": "Ostrołęka",
+    "name:pl": "Ostrołęka",
+    "train": null
+  },
+  {
+    "lat": 51.9404823,
+    "lon": 22.3928588,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Łuków",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.900769,
+    "lon": 23.8176936,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Siemianówka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.1682227,
+    "lon": 20.7989255,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Szybka Kolej Miejska",
+    "network:short": "KM;SKM",
+    "name": "Pruszków",
+    "name:pl": "Pruszków",
+    "train": null
+  },
+  {
+    "lat": 52.1103954,
+    "lon": 20.6234643,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;PKP Intercity;Polregio",
+    "network:short": "KM;IC;PR",
+    "name": "Grodzisk Mazowiecki",
+    "name:pl": "Grodzisk Mazowiecki",
+    "train": "yes"
+  },
+  {
+    "lat": 52.0524632,
+    "lon": 20.4489804,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Koleje Mazowieckie",
+    "network:short": "IC;KM",
+    "name": "Żyrardów",
+    "name:pl": "Żyrardów",
+    "train": null
+  },
+  {
+    "lat": 51.9676192,
+    "lon": 20.151435,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Łódzka Kolej Aglomeracyjna;Koleje Mazowieckie;Polregio;PKP Intercity",
+    "network:short": "ŁKA;KM;PR;IC",
+    "name": "Skierniewice",
+    "name:pl": "Skierniewice",
+    "train": null
+  },
+  {
+    "lat": 50.9159863,
+    "lon": 19.3414573,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kłomnice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.8084279,
+    "lon": 19.1209688,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Częstochowa",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.3665939,
+    "lon": 19.2646845,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dąbrowa Górnicza Ząbkowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.27895,
+    "lon": 19.1263859,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sosnowiec Główny",
+    "name:pl": "Sosnowiec Główny",
+    "train": null
+  },
+  {
+    "lat": 52.1639548,
+    "lon": 21.8005353,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Mrozy",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.05541,
+    "lon": 22.3862177,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dziewule",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9469265,
+    "lon": 22.5448868,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Szaniawy",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.9760347,
+    "lon": 22.7855957,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Międzyrzec Podlaski",
+    "name:pl": "Międzyrzec Podlaski",
+    "train": null
+  },
+  {
+    "lat": 52.0202547,
+    "lon": 23.1304101,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Biała Podlaska",
+    "name:pl": "Biała Podlaska",
+    "train": null
+  },
+  {
+    "lat": 51.9968432,
+    "lon": 23.355823,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Chotyłów",
+    "name:pl": "Chotyłów",
+    "train": null
+  },
+  {
+    "lat": 52.0743321,
+    "lon": 23.601254,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Terespol",
+    "name:pl": "Terespol",
+    "train": null
+  },
+  {
+    "lat": 52.1865234,
+    "lon": 20.6074023,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Błonie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2270739,
+    "lon": 19.3481878,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Kutno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2232926,
+    "lon": 21.1496497,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Szybka Kolej Miejska",
+    "network:short": "KM;SKM",
+    "name": "Warszawa Wawer",
+    "name:pl": "Warszawa Wawer",
+    "train": "yes"
+  },
+  {
+    "lat": 51.231292,
+    "lon": 22.5689637,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lublin Główny",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.1413165,
+    "lon": 23.4942003,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Chełm",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.3388407,
+    "lon": 21.0540748,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rożki",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.2079964,
+    "lon": 20.9234453,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szydłowiec",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.1161696,
+    "lon": 20.8821942,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Skarżysko-Kamienna",
+    "name:pl": "Skarżysko-Kamienna",
+    "train": "yes"
+  },
+  {
+    "lat": 52.4014565,
+    "lon": 20.9415879,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Legionowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7433692,
+    "lon": 18.2274685,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Opatówek",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.742827,
+    "lon": 18.0713653,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kalisz",
+    "name:pl": "Kalisz",
+    "train": null
+  },
+  {
+    "lat": 51.6854689,
+    "lon": 17.8605973,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czekanów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.8158946,
+    "lon": 16.4859499,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lasocice",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.6532538,
+    "lon": 19.0587525,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Włocławek",
+    "name:pl": "Włocławek",
+    "train": null
+  },
+  {
+    "lat": 52.8030127,
+    "lon": 18.8701947,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Nieszawa Waganiec",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.8758646,
+    "lon": 18.6963912,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Aleksandrów Kujawski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.1430744,
+    "lon": 16.7448031,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Piła Główna",
+    "name:pl": "Piła Główna",
+    "train": null
+  },
+  {
+    "lat": 53.0726159,
+    "lon": 21.5338927,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Polregio",
+    "network:short": "KM;PR",
+    "name": "Grabowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.1319823,
+    "lon": 21.2494709,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Polregio",
+    "network:short": "KM;PR",
+    "name": "Jastrząbka",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.2818911,
+    "lon": 20.939551,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Mazowieckie;Polregio",
+    "network:short": "KM;PR",
+    "name": "Chorzele",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.0000195,
+    "lon": 22.7186468,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": null,
+    "name": "Sokoły",
+    "name:pl": "Sokoły",
+    "train": null
+  },
+  {
+    "lat": 50.0455012,
+    "lon": 19.2856105,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Małopolskie",
+    "network:short": "KMł",
+    "name": "Dwory",
+    "name:pl": "Dwory",
+    "train": null
+  },
+  {
+    "lat": 50.8681814,
+    "lon": 20.3788822,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rykoszyn",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.8502132,
+    "lon": 20.272798,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Małogoszcz",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.8518711,
+    "lon": 20.1626707,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ludynia",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.8377903,
+    "lon": 20.0145481,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Włoszczowa",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.8238886,
+    "lon": 19.9446978,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czarnca",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.8038128,
+    "lon": 19.858556,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Żelisławice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.672558,
+    "lon": 18.6910442,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lubliniec",
+    "name:pl": "Lubliniec",
+    "train": "yes"
+  },
+  {
+    "lat": 50.6517537,
+    "lon": 20.5865673,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP PLK",
+    "network:short": null,
+    "name": "Włoszczowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.2454136,
+    "lon": 21.7850466,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kolbuszowa",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.7601582,
+    "lon": 20.5785811,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nida",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.4943675,
+    "lon": 20.6418081,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grochowiska",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.4619331,
+    "lon": 20.6858176,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Busko-Zdrój",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 49.8704685,
+    "lon": 18.6231775,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zebrzydowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 49.7513089,
+    "lon": 18.6359305,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Cieszyn",
+    "name:pl": "Cieszyn",
+    "train": "yes"
+  },
+  {
+    "lat": 49.7851816,
+    "lon": 22.8629134,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Hurko",
+    "name:pl": "Hurko",
+    "train": null
+  },
+  {
+    "lat": 50.0993583,
+    "lon": 19.2542117,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chełmek",
+    "name:pl": "Chełmek",
+    "train": null
+  },
+  {
+    "lat": 50.0298423,
+    "lon": 19.9464698,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kraków Bonarka",
+    "name:pl": "Kraków Bonarka",
+    "train": null
+  },
+  {
+    "lat": 49.9665908,
+    "lon": 19.7734951,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Podbory Skawińskie",
+    "name:pl": "Podbory Skawińskie",
+    "train": null
+  },
+  {
+    "lat": 52.7552395,
+    "lon": 16.9721483,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rogoźno Wielkopolskie",
+    "name:pl": "Rogoźno Wielkopolskie",
+    "train": null
+  },
+  {
+    "lat": 52.6580627,
+    "lon": 16.8306803,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Oborniki Wielkopolskie",
+    "name:pl": "Oborniki Wielkopolskie",
+    "train": "yes"
+  },
+  {
+    "lat": 49.9951141,
+    "lon": 19.476835,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Spytkowice",
+    "name:pl": "Spytkowice",
+    "train": null
+  },
+  {
+    "lat": 52.3177702,
+    "lon": 16.8008807,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szreniawa",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.1784645,
+    "lon": 17.1944543,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Długołęka",
+    "name:pl": "Długołęka",
+    "train": null
+  },
+  {
+    "lat": 53.6912864,
+    "lon": 20.093359,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Stare Jabłonki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.3705998,
+    "lon": 18.2691021,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Parlin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.4095061,
+    "lon": 18.3513842,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Terespol Pomorski",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.4910465,
+    "lon": 18.4559143,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Laskowice Pomorskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.5890777,
+    "lon": 18.6231618,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Warlubie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.6824769,
+    "lon": 18.6715195,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Twarda Góra",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.747959,
+    "lon": 18.6858934,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Smętowo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.836734,
+    "lon": 18.6862241,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Morzeszczyn",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.9269222,
+    "lon": 18.707277,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pelplin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.9861304,
+    "lon": 18.7535814,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Subkowy",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4010511,
+    "lon": 17.6529599,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Międzybórz Sycowski",
+    "name:pl": "Międzybórz Sycowski",
+    "train": "yes"
+  },
+  {
+    "lat": 50.3835775,
+    "lon": 18.6193963,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pyskowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.412104,
+    "lon": 18.5721543,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Paczyna",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.3038107,
+    "lon": 18.8780245,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ruda Chebzie",
+    "name:pl": "Ruda Chebzie",
+    "train": "yes"
+  },
+  {
+    "lat": 50.3466453,
+    "lon": 18.1314695,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kędzierzyn-Koźle Zachodnie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.4776491,
+    "lon": 17.3419525,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nysa",
+    "name:pl": "Nysa",
+    "train": "yes"
+  },
+  {
+    "lat": 50.8412151,
+    "lon": 16.4815065,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Świdnica Miasto",
+    "name:pl": "Świdnica Miasto",
+    "train": null
+  },
+  {
+    "lat": 50.6091307,
+    "lon": 18.4732796,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zawadzkie",
+    "name:pl": "Zawadzkie",
+    "train": "yes"
+  },
+  {
+    "lat": 50.2421352,
+    "lon": 18.3005745,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dziergowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.1132299,
+    "lon": 18.270162,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Racibórz Markowice",
+    "name:pl": "Racibórz Markowice",
+    "train": null
+  },
+  {
+    "lat": 49.9258005,
+    "lon": 18.3114072,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chałupki",
+    "name:pl": "Chałupki",
+    "train": null
+  },
+  {
+    "lat": 51.2396362,
+    "lon": 18.5502063,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wieluń Dąbrowa",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.5673263,
+    "lon": 15.1808642,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jankowa Żagańska",
+    "name:pl": "Jankowa Żagańska",
+    "train": null
+  },
+  {
+    "lat": 54.3564345,
+    "lon": 18.6441946,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gdańsk Główny",
+    "name:pl": "Gdańsk Główny",
+    "train": "yes"
+  },
+  {
+    "lat": 54.3817696,
+    "lon": 18.6055111,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio;SKM Trójmiasto",
+    "network:short": "IC;PR;SKM",
+    "name": "Gdańsk Wrzeszcz",
+    "name:pl": "Gdańsk Wrzeszcz",
+    "train": null
+  },
+  {
+    "lat": 54.5669472,
+    "lon": 18.1025716,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Luzino",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.5688524,
+    "lon": 17.9677613,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bożepole Wielkie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.578248,
+    "lon": 16.8621487,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Ustka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.8512071,
+    "lon": 18.1086364,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czarna Woda",
+    "name:pl": "Czarna Woda",
+    "train": null
+  },
+  {
+    "lat": 53.6890673,
+    "lon": 17.5777493,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chojnice",
+    "name:pl": "Chojnice",
+    "train": null
+  },
+  {
+    "lat": 53.4972794,
+    "lon": 17.2572823,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lipka Krajeńska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.3590744,
+    "lon": 17.0531046,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Złotów",
+    "name:pl": "Złotów",
+    "train": null
+  },
+  {
+    "lat": 54.0359714,
+    "lon": 19.0431501,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Malbork",
+    "name:pl": "Malbork",
+    "train": null
+  },
+  {
+    "lat": 54.0900141,
+    "lon": 19.3059519,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gronowo Elbląskie",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.3809392,
+    "lon": 19.8421521,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Braniewo",
+    "name:pl": "Braniewo",
+    "train": null
+  },
+  {
+    "lat": 53.4819767,
+    "lon": 18.7615467,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Grudziądz",
+    "name:pl": "Grudziądz",
+    "train": null
+  },
+  {
+    "lat": 53.6669115,
+    "lon": 18.8799484,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Sadlinki",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.7306761,
+    "lon": 18.9333904,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kwidzyn",
+    "name:pl": "Kwidzyn",
+    "train": null
+  },
+  {
+    "lat": 53.6601232,
+    "lon": 17.1294385,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bińcze",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.2422343,
+    "lon": 16.76381,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Księginice",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 54.2572262,
+    "lon": 18.6469706,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pruszcz Gdański",
+    "name:pl": "Pruszcz Gdański",
+    "train": "yes"
+  },
+  {
+    "lat": 51.0382566,
+    "lon": 17.1425423,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Siechnice",
+    "name:pl": "Siechnice",
+    "train": null
+  },
+  {
+    "lat": 51.5783347,
+    "lon": 21.8340731,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Dęblin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.3623351,
+    "lon": 18.4920256,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gdańsk Kokoszki",
+    "name:pl": "Gdańsk Kokoszki",
+    "train": null
+  },
+  {
+    "lat": 51.8409612,
+    "lon": 17.7561366,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Taczanów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.5290973,
+    "lon": 16.2809748,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Rudna Gwizdanów",
+    "name:pl": "Rudna Gwizdanów",
+    "train": "yes"
+  },
+  {
+    "lat": 51.947377,
+    "lon": 15.5111288,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio;Koleje Dolnośląskie",
+    "network:short": "IC;PR;KD",
+    "name": "Zielona Góra Główna",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.4182413,
+    "lon": 14.5494069,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szczecin Główny",
+    "name:pl": "Szczecin Główny",
+    "train": "yes"
+  },
+  {
+    "lat": 50.8599745,
+    "lon": 16.3350456,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Świebodzice",
+    "name:pl": "Świebodzice",
+    "train": "yes"
+  },
+  {
+    "lat": 50.8134159,
+    "lon": 16.0698493,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sędzisław",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.4793001,
+    "lon": 17.2778502,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pobiedziska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7159921,
+    "lon": 15.1794125,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bieniów",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.1740916,
+    "lon": 15.0177339,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Jędrzychowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.4712011,
+    "lon": 17.3738925,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Krośnice",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.2660812,
+    "lon": 15.5695267,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bolesławiec",
+    "name:pl": "Bolesławiec",
+    "train": null
+  },
+  {
+    "lat": 53.0123138,
+    "lon": 18.6197194,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Toruń Miasto",
+    "name:pl": "Toruń Miasto",
+    "train": "yes"
+  },
+  {
+    "lat": 51.7631038,
+    "lon": 19.5438083,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Łódź Widzew",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6693093,
+    "lon": 16.1933497,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mieroszów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.3980028,
+    "lon": 14.4976184,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szczecin Gumieńce",
+    "name:pl": "Szczecin Gumieńce",
+    "train": null
+  },
+  {
+    "lat": 51.7695789,
+    "lon": 19.4691325,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Łódzka Kolej Aglomeracyjna;Polregio;PKP Intercity",
+    "network:short": "ŁKA;PR;IC",
+    "name": "Łódź Fabryczna",
+    "name:pl": "Łódź Fabryczna",
+    "train": "yes"
+  },
+  {
+    "lat": 53.3913468,
+    "lon": 14.6704623,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szczecin Dąbie",
+    "name:pl": "Szczecin Dąbie",
+    "train": null
+  },
+  {
+    "lat": 53.0704877,
+    "lon": 16.8156025,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Dziembówko",
+    "name:pl": "Dziembówko",
+    "train": null
+  },
+  {
+    "lat": 52.8936015,
+    "lon": 16.9661989,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Budzyń",
+    "name:pl": "Budzyń",
+    "train": "yes"
+  },
+  {
+    "lat": 52.4458143,
+    "lon": 17.0794703,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kobylnica",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7949582,
+    "lon": 15.2254827,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nowogród Osiedle",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3957796,
+    "lon": 16.1934358,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Lubin",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.3304426,
+    "lon": 17.3945815,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Głuchołazy",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.537633,
+    "lon": 17.5653022,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łambinowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.6060405,
+    "lon": 17.7050638,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szydłów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 54.4222198,
+    "lon": 18.4526329,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gdańsk Osowa",
+    "name:pl": "Gdańsk Osowa",
+    "train": null
+  },
+  {
+    "lat": 52.0916666,
+    "lon": 15.6167904,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sulechów",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.8211381,
+    "lon": 20.6173272,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Łęgajny",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 54.2394528,
+    "lon": 23.2080095,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Trakiszki",
+    "name:pl": "Trakiszki",
+    "train": "yes"
+  },
+  {
+    "lat": 53.7573104,
+    "lon": 19.2108087,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Prabuty",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.1540182,
+    "lon": 19.4531632,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Trzebinia",
+    "name:pl": "Trzebinia",
+    "train": null
+  },
+  {
+    "lat": 53.1438546,
+    "lon": 18.0318251,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Bydgoszcz Leśna",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.3015343,
+    "lon": 16.1816401,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Raszówka",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.451134,
+    "lon": 16.2330039,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Koźlice",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 52.4439511,
+    "lon": 20.7049748,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Modlin",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.4781373,
+    "lon": 19.6415296,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Rakowice",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.8350396,
+    "lon": 16.5039056,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Świdnica Przedmieście",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.6609304,
+    "lon": 19.3249765,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Pabianice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2250393,
+    "lon": 20.9850425,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Warszawa Główna",
+    "name:pl": "Warszawa Główna",
+    "train": "yes"
+  },
+  {
+    "lat": 53.4894931,
+    "lon": 19.3893071,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Biskupiec Pomorski",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 54.4678168,
+    "lon": 17.0163242,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Słupsk",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 50.1570001,
+    "lon": 18.2917585,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Nędza",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.6113628,
+    "lon": 18.9472078,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zduńska Wola",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 53.7895176,
+    "lon": 20.4449467,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Polregio",
+    "network:short": "PR",
+    "name": "Olsztyn Likusy",
+    "name:pl": "Olsztyn Likusy",
+    "train": "yes"
+  },
+  {
+    "lat": 52.5056822,
+    "lon": 17.4826237,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Pierzyska",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.5671599,
+    "lon": 15.7820307,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wierzbno",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.8685162,
+    "lon": 23.7376264,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe S.A.",
+    "network:short": null,
+    "name": "Narewka",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.8494636,
+    "lon": 19.4257929,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Polskie Linie Kolejowe",
+    "network:short": null,
+    "name": "Zgierz",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.7006769,
+    "lon": 16.7440004,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP",
+    "network:short": null,
+    "name": "Bojanowo",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 51.9785114,
+    "lon": 14.7213628,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gubin",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9845464,
+    "lon": 14.7928347,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Wałowice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.0395027,
+    "lon": 15.2338254,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Szczawno-Ciemnice",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 51.9892368,
+    "lon": 21.1929475,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Góra Kalwaria",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 53.9137425,
+    "lon": 19.1229124,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Mleczewo",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.9889214,
+    "lon": 18.4685966,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Cierpice",
+    "name:pl": "Cierpice",
+    "train": null
+  },
+  {
+    "lat": 52.4182197,
+    "lon": 16.971483,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Poznań Wschód",
+    "name:pl": "Poznań Wschód",
+    "train": null
+  },
+  {
+    "lat": 52.3416969,
+    "lon": 16.9755354,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Poznań Krzesiny",
+    "name:pl": "Poznań Krzesiny",
+    "train": "yes"
+  },
+  {
+    "lat": 52.3662312,
+    "lon": 16.9342759,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Poznań Starołęka",
+    "name:pl": "Poznań Starołęka",
+    "train": null
+  },
+  {
+    "lat": 51.574591,
+    "lon": 17.6677164,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Odolanów",
+    "name:pl": "Odolanów",
+    "train": null
+  },
+  {
+    "lat": 52.3802146,
+    "lon": 16.8814902,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Poznań Górczyn",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.2984743,
+    "lon": 18.9492704,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Chorzów Miasto",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.2807927,
+    "lon": 16.7102092,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Stęszew",
+    "name:pl": "Stęszew",
+    "train": "yes"
+  },
+  {
+    "lat": 52.2729936,
+    "lon": 16.8637843,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Puszczykówko",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.4519364,
+    "lon": 21.0082343,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Zegrze Południowe",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.536143,
+    "lon": 16.8989781,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kamieniec Ząbkowicki",
+    "name:pl": "Kamieniec Ząbkowicki",
+    "train": null
+  },
+  {
+    "lat": 52.5904484,
+    "lon": 15.4997747,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Skwierzyna",
+    "name:pl": "Skwierzyna",
+    "train": null
+  },
+  {
+    "lat": 51.6365599,
+    "lon": 15.0613769,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Sieniawa Żarska",
+    "name:pl": null,
+    "train": "yes"
+  },
+  {
+    "lat": 50.3403105,
+    "lon": 18.6222829,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Gliwice Łabędy",
+    "name:pl": "Gliwice Łabędy",
+    "train": null
+  },
+  {
+    "lat": 52.4685712,
+    "lon": 16.9796184,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Czerwonak",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.4763481,
+    "lon": 16.7892323,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Kiekrz",
+    "name:pl": "Kiekrz",
+    "train": null
+  },
+  {
+    "lat": 52.433565,
+    "lon": 16.8503707,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKM",
+    "network:short": null,
+    "name": "Poznań Wola",
+    "name:pl": "Poznań Wola",
+    "train": "yes"
+  },
+  {
+    "lat": 50.5772987,
+    "lon": 16.4968105,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Koleje Dolnośląskie",
+    "network:short": null,
+    "name": "Nowa Ruda",
+    "name:pl": null,
+    "train": null
+  },
+  {
+    "lat": 52.6020546,
+    "lon": 16.5882595,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "Poznańska Kolej Metropolitarna",
+    "network:short": "PKM",
+    "name": "Szamotuły",
+    "name:pl": "Szamotuły",
+    "train": "yes"
+  },
+  {
+    "lat": 54.1722675,
+    "lon": 21.1368948,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": "PKP Intercity;Polregio",
+    "network:short": "IC;PR",
+    "name": "Korsze",
+    "name:pl": "Korsze",
+    "train": "yes"
+  },
+  {
+    "lat": 50.6639147,
+    "lon": 20.320871,
+    "operator": "PKP Polskie Linie Kolejowe S.A.",
+    "network": null,
+    "network:short": null,
+    "name": "Podchojny",
+    "name:pl": null,
+    "train": "yes"
+  }
+]
