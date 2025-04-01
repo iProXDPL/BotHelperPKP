@@ -1,2 +1,10 @@
 action_endpoint:
   url: "http://localhost:5055/webhook"
+
+model_server:
+  url: "http://localhost:5002"
+
+tracker_store:
+  type: sql
+  dialect: sqlite
+  db: rasa.db

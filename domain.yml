@@ -60,7 +60,7 @@ responses:
     - text: "Czy chcesz teraz kupić bilet na to połączenie?"
 
   utter_ticket_link:
-    - text: "Możesz kupić bilet tutaj: [Link do zakupu](https://example.com/bilety?from={departure_station}&to={arrival_station}&date={date}&time={time})"
+    - text: "Możesz kupić bilet tutaj: https://example.com/bilety?from={departure_station}&to={arrival_station}&date={date}&time={time}"
 
   utter_goodbye:
     - text: "Dziękuję za skorzystanie z naszych usług. Miłej podróży!"
