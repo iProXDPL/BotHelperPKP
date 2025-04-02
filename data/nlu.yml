@@ -45,9 +45,12 @@ nlu:
       - Interesuje mnie podróż
       - Szukam pociągu
       - Szukam połączenia z [Kraków](departure_station) do [Warszawa](arrival_station)
+      - Szukam połączenia z [kraków](departure_station) do [warszawa](arrival_station)
+      - Szukam połączenia z [kraków](departure_station) do [warszawa](arrival_station) dnia [2023-12-24](date) o [14:15](time)
       - Chcę jechać z [Gdańsk](departure_station) do [Poznań](arrival_station) [jutro](date)
       - Połączenie kolejowe [Wrocław](departure_station) - [Katowice](arrival_station) [15:30](time)
       - Znajdź pociąg z [Szczecin](departure_station) na [Łódź](arrival_station) [2023-12-24](date)
+      - Znajdź pociąg z [szczecin](departure_station) na [łódź](arrival_station) [2023-12-24](date)
 
   - intent: affirm
     examples: |
@@ -66,11 +69,17 @@ nlu:
   - intent: provide_info
     examples: |
       - Z [Kraków](departure_station) do [Warszawa](arrival_station)
+      - Z [kraków](departure_station) do [warszawa](arrival_station)
+      - Z [Kraków](departure_station) do [warszawa](arrival_station)
+      - Z [kraków](departure_station) do [Warszawa](arrival_station)
       - [Przeworsk](departure_station) do [Rzeszów](arrival_station)
+      - [przeworsk](departure_station) do [rzeszów](arrival_station)
       - [Rzeszów](departure_station) do [Przeworsk](arrival_station)
-      - [Wrocław](departure_station),[Gdańsk](arrival_station)
+      - [Wrocław](departure_station) [Gdańsk](arrival_station)
       - [2023-12-24](date)
+      - [02.04.2025](date)
       - [Jutro](date)
       - [14:15](time)
       - Data to [piątek](date)
       - Godzina [18:00](time)
+      - o godzinie [10:05](time)

@@ -31,4 +31,4 @@ ehthumbs_vista.db
 # Pliki specyficzne dla Rasa
 .rasa/
 models/
-test_results/
+results/
