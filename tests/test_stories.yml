@@ -18,7 +18,7 @@ test_stories:
   - story: Test wyszukiwania połączenia
     steps:
       - user: |
-          Szukam poączenia z Kraków do Warszawa
+          Szukam połączenia z Kraków do Warszawa
         intent: search_connection
         entities:
           - departure_station: "Kraków"
@@ -28,7 +28,7 @@ test_stories:
   - story: Test wyszukiwania połączenia z datą i godziną
     steps:
       - user: |
-          Szukam poączenia z Kraków do Warszawa dnia 2023-12-24 o 14:15
+          Szukam połączenia z Kraków do Warszawa dnia 2023-12-24 o 14:15
         intent: search_connection
         entities:
           - departure_station: "Kraków"
