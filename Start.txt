@@ -5,7 +5,7 @@ python -m venv ./venv
 pip install uv
 uv pip install rasa-pro
 
-rasa init --template calm
+rasa init
 
 rasa train
 
